@@ -1,0 +1,331 @@
+,0,1
+,0,0
+spot_market.pubkey,6gMq3mRCKf8aP3ttTyYhuijVZ2LGi14oDsBbkgubfLB3,3x85u7SWkmmr7YQGYhtjARgxwegTLJgkSLRprfXod6rh
+spot_market.oracle,11111111111111111111111111111111,H6ARHf6YXhGYeQfUzQNGk6rDNnLBQKrenN712K4AQJEG
+spot_market.mint,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,So11111111111111111111111111111111111111112
+spot_market.vault,GXWqPpjQpdz7KZw9p7f5PX2eGxHAhvpNXiviFkAB8zXg,DfYCNezifxAEsQbAJ1b3j6PX3JVBe8fu11KBhxsbw5d2
+spot_market.name,"ListContainer: 
+    85
+    83
+    68
+    67
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32","ListContainer: 
+    83
+    79
+    76
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32"
+spot_market.total_spot_fee,0.0,0.000518
+spot_market.deposit_balance,11218.861231551,3.410966633
+spot_market.borrow_balance,14.968041546,0.0
+spot_market.cumulative_deposit_interest,1.0000000619,1.0000718843
+spot_market.cumulative_borrow_interest,1.0000114195,1.0005364712
+spot_market.total_social_loss,0,0
+spot_market.total_quote_social_loss,0,0
+spot_market.withdraw_guard_threshold,100000.0,2000.0
+spot_market.max_token_deposits,200000.0,4000.0
+spot_market.deposit_token_twap,9205.733838,2.663770209
+spot_market.borrow_token_twap,9.930233,0.039472994
+spot_market.utilization_twap,0.000999,0.006807
+spot_market.last_interest_ts,1667816766,1667811842
+spot_market.last_twap_ts,1667818628,1667819374
+spot_market.expiry_ts,0,0
+spot_market.order_step_size,0.0,0.1
+spot_market.order_tick_size,0.0,0.0001
+spot_market.min_order_size,0.0,0.1
+spot_market.max_position_size,0.0,0.0
+spot_market.next_fill_record_id,1,2
+spot_market.next_deposit_record_id,60,33
+spot_market.initial_asset_weight,1.0,0.8
+spot_market.maintenance_asset_weight,1.0,0.9
+spot_market.initial_liability_weight,1.0,1.2
+spot_market.maintenance_liability_weight,1.0,1.1
+spot_market.imf_factor,0.0,0.003
+spot_market.liquidator_fee,0.01,0.01
+spot_market.if_liquidation_fee,0.01,0.01
+spot_market.optimal_utilization,0.5,0.5
+spot_market.optimal_borrow_rate,0.15,0.3
+spot_market.max_borrow_rate,3.0,5.0
+spot_market.decimals,6,9
+spot_market.market_index,0,1
+spot_market.orders_enabled,False,True
+spot_market.oracle_source,OracleSource.QuoteAsset(),OracleSource.Pyth()
+spot_market.status,MarketStatus.Active(),MarketStatus.Active()
+spot_market.asset_tier,AssetTier.Collateral(),AssetTier.Collateral()
+spot_market.padding,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0"
+spot_market.insurance_fund.vault,2CqkQvYxp9Mq4PqLvAQ1eryYxebUh4Liyn5YMDtXsYci,4vwQWa4RjmPkn1WrmyEE3t912yWsBf9JNkASH36AQL3F
+spot_market.insurance_fund.total_shares,81231424,0
+spot_market.insurance_fund.user_shares,81000000,0
+spot_market.insurance_fund.shares_base,0,0
+spot_market.insurance_fund.unstaking_period,1123200,1123200
+spot_market.insurance_fund.last_revenue_settle_ts,1667780094,0
+spot_market.insurance_fund.revenue_settle_period,3600,0
+spot_market.insurance_fund.total_factor,10000,10000
+spot_market.insurance_fund.user_factor,5000,5000
+spot_market.historical_oracle_data.last_oracle_price,1.0,31.637784
+spot_market.historical_oracle_data.last_oracle_conf,1e-06,0.015385
+spot_market.historical_oracle_data.last_oracle_delay,0,1
+spot_market.historical_oracle_data.last_oracle_price_twap,1.000001,31.639487
+spot_market.historical_oracle_data.last_oracle_price_twap5min,0.999999,31.640801
+spot_market.historical_oracle_data.last_oracle_price_twap_ts,2022-11-07 05:57:08,2022-11-07 06:09:34
+spot_market.historical_index_data.last_index_bid_price,1.0,32.387
+spot_market.historical_index_data.last_index_ask_price,1000000,32520000
+spot_market.historical_index_data.last_index_price_twap,1.0,32.4535
+spot_market.historical_index_data.last_index_price_twap5min,1.0,32.4535
+spot_market.historical_index_data.last_index_price_twap_ts,1969-12-31 19:00:00,1969-12-31 19:00:00
+spot_market.revenue_pool.scaled_balance,68.700110522,1.119e-06
+spot_market.revenue_pool.market_index,0,1
+spot_market.revenue_pool.padding,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0"
+spot_market.spot_fee_pool.scaled_balance,0.0,0.0
+spot_market.spot_fee_pool.market_index,0,0
+spot_market.spot_fee_pool.padding,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0"
