@@ -4,7 +4,7 @@ delegate,11111111111111111111111111111111
 last_add_perp_lp_shares_ts,0
 total_deposits,12000000
 total_withdraws,0
-total_social_loss,923779
+total_social_loss,0
 settled_perp_pnl,0
 cumulative_spot_fees,0
 cumulative_perp_funding,3276
@@ -14,7 +14,7 @@ next_order_id,3
 max_margin_ratio,0
 next_liquidation_id,2
 sub_account_id,0
-status,UserStatus.Active()
+status,UserStatus.Bankrupt()
 is_margin_trading_enabled,False
 0.order.auction_duration,0
 0.order.auction_end_price,0
@@ -48,7 +48,7 @@ is_margin_trading_enabled,False
 0.perp.open_asks,0.0
 0.perp.open_bids,0.0
 0.perp.open_orders,0.0
-0.perp.quote_asset_amount,0.0
+0.perp.quote_asset_amount,-923779.0
 0.perp.quote_break_even_amount,0.0
 0.perp.quote_entry_amount,0.0
 0.perp.remainder_base_asset_amount,0.0
