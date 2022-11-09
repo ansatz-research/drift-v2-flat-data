@@ -78,11 +78,11 @@ spot_market.total_social_loss,0,0
 spot_market.total_quote_social_loss,0,0
 spot_market.withdraw_guard_threshold,100000.0,2000.0
 spot_market.max_token_deposits,200000.0,4000.0
-spot_market.deposit_token_twap,19962.907219,96.983028292
-spot_market.borrow_token_twap,52.023771,0.267006647
-spot_market.utilization_twap,0.002443,0.002776
+spot_market.deposit_token_twap,20007.036546,96.983028292
+spot_market.borrow_token_twap,52.360547,0.267006647
+spot_market.utilization_twap,0.002451,0.002776
 spot_market.last_interest_ts,1667979346,1667979346
-spot_market.last_twap_ts,1667979527,1667979353
+spot_market.last_twap_ts,1667979825,1667979353
 spot_market.expiry_ts,0,0
 spot_market.order_step_size,0.0,0.1
 spot_market.order_tick_size,0.0,0.0001
