@@ -12,7 +12,7 @@ liquidation_margin_freed,0
 liquidation_start_ts,0
 next_order_id,6
 max_margin_ratio,0
-next_liquidation_id,17
+next_liquidation_id,18
 sub_account_id,0
 status,UserStatus.Active()
 is_margin_trading_enabled,False
