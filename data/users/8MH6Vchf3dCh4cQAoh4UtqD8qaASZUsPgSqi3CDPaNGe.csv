@@ -10,9 +10,9 @@ cumulative_spot_fees,0
 cumulative_perp_funding,-26637
 liquidation_margin_freed,0
 liquidation_start_ts,0
-next_order_id,8
+next_order_id,10
 max_margin_ratio,0
-next_liquidation_id,2
+next_liquidation_id,4
 sub_account_id,0
 status,UserStatus.Active()
 is_margin_trading_enabled,False
@@ -39,7 +39,7 @@ is_margin_trading_enabled,False
 0.order.trigger_condition,OrderTriggerCondition.Above()
 0.order.trigger_price,0
 0.order.user_order_id,0
-0.perp.base_asset_amount,600000000.0
+0.perp.base_asset_amount,100000000.0
 0.perp.last_cumulative_funding_rate,-94172574.0
 0.perp.last_net_base_asset_amount_per_lp,0.0
 0.perp.last_net_quote_asset_amount_per_lp,0.0
@@ -48,9 +48,9 @@ is_margin_trading_enabled,False
 0.perp.open_asks,0.0
 0.perp.open_bids,0.0
 0.perp.open_orders,0.0
-0.perp.quote_asset_amount,-16234356.0
-0.perp.quote_break_even_amount,-12152017.0
-0.perp.quote_entry_amount,-11176380.0
+0.perp.quote_asset_amount,-8117702.0
+0.perp.quote_break_even_amount,-2123943.0
+0.perp.quote_entry_amount,-1862730.0
 0.perp.remainder_base_asset_amount,0.0
 0.perp.settled_pnl,0.0
 0.spot.balance_type,SpotBalanceType.Deposit()
