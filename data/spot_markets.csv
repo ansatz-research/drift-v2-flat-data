@@ -70,7 +70,7 @@ spot_market.name,"ListContainer:
     32
     32"
 spot_market.total_spot_fee,0.0,0.41947
-spot_market.deposit_balance,50974.998255376,228.243687573
+spot_market.deposit_balance,50974.998255373,228.243687573
 spot_market.borrow_balance,303.654727496,27.953093215
 spot_market.cumulative_deposit_interest,1.0000000812,1.0000541619
 spot_market.cumulative_borrow_interest,1.0000168673,1.000640111
@@ -78,11 +78,11 @@ spot_market.total_social_loss,0,6340251
 spot_market.total_quote_social_loss,0,87841
 spot_market.withdraw_guard_threshold,100000.0,2000.0
 spot_market.max_token_deposits,200000.0,4000.0
-spot_market.deposit_token_twap,29498.847276,190.899391977
-spot_market.borrow_token_twap,93.3421,13.104431815
-spot_market.utilization_twap,0.002908,0.041646
+spot_market.deposit_token_twap,29554.526197,190.899391977
+spot_market.borrow_token_twap,93.887369,13.104431815
+spot_market.utilization_twap,0.002916,0.041646
 spot_market.last_interest_ts,1668037645,1668036277
-spot_market.last_twap_ts,1668037645,1668036277
+spot_market.last_twap_ts,1668037869,1668036277
 spot_market.expiry_ts,0,0
 spot_market.order_step_size,0.0,0.1
 spot_market.order_tick_size,0.0,0.0001
