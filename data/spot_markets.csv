@@ -102,7 +102,7 @@ spot_market.optimal_borrow_rate,0.15,0.3
 spot_market.max_borrow_rate,3.0,5.0
 spot_market.decimals,6,9
 spot_market.market_index,0,1
-spot_market.orders_enabled,False,True
+spot_market.orders_enabled,False,False
 spot_market.oracle_source,OracleSource.QuoteAsset(),OracleSource.Pyth()
 spot_market.status,MarketStatus.Active(),MarketStatus.Active()
 spot_market.asset_tier,AssetTier.Collateral(),AssetTier.Collateral()
