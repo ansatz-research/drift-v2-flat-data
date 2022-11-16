@@ -72,17 +72,17 @@ spot_market.name,"ListContainer:
 spot_market.total_spot_fee,0.0,8.131043
 spot_market.deposit_balance,47774.102368894,910.197500967
 spot_market.borrow_balance,504.915768589,8.894516434
-spot_market.cumulative_deposit_interest,1.0000004837,1.0030634951
-spot_market.cumulative_borrow_interest,1.0000616089,1.0061947557
+spot_market.cumulative_deposit_interest,1.0000004845,1.0030635051
+spot_market.cumulative_borrow_interest,1.0000616894,1.0061957973
 spot_market.total_social_loss,0,6340251
 spot_market.total_quote_social_loss,0,87841
 spot_market.withdraw_guard_threshold,100000.0,2000.0
 spot_market.max_token_deposits,200000.0,4000.0
-spot_market.deposit_token_twap,49466.872081,790.94160344
-spot_market.borrow_token_twap,440.962972,165.089537659
-spot_market.utilization_twap,0.009157,0.215683
-spot_market.last_interest_ts,1668635081,1668630130
-spot_market.last_twap_ts,1668635081,1668630130
+spot_market.deposit_token_twap,49451.24517,798.782666711
+spot_market.borrow_token_twap,441.553653,155.05790971
+spot_market.utilization_twap,0.009171,0.202456
+spot_market.last_interest_ts,1668635880,1668635681
+spot_market.last_twap_ts,1668635880,1668635681
 spot_market.expiry_ts,0,0
 spot_market.order_step_size,0.0,0.001
 spot_market.order_tick_size,0.0,0.0001
@@ -280,11 +280,11 @@ spot_market.padding,"ListContainer:
     0
     0"
 spot_market.insurance_fund.vault,2CqkQvYxp9Mq4PqLvAQ1eryYxebUh4Liyn5YMDtXsYci,4vwQWa4RjmPkn1WrmyEE3t912yWsBf9JNkASH36AQL3F
-spot_market.insurance_fund.total_shares,2810187934,7575864
+spot_market.insurance_fund.total_shares,2810187934,7575885
 spot_market.insurance_fund.user_shares,2717911729,0
 spot_market.insurance_fund.shares_base,0,0
 spot_market.insurance_fund.unstaking_period,1123200,1123200
-spot_market.insurance_fund.last_revenue_settle_ts,1668630280,1668618881
+spot_market.insurance_fund.last_revenue_settle_ts,1668630280,1668635681
 spot_market.insurance_fund.revenue_settle_period,3600,3600
 spot_market.insurance_fund.total_factor,10000,10000
 spot_market.insurance_fund.user_factor,5000,5000
@@ -299,7 +299,7 @@ spot_market.historical_index_data.last_index_ask_price,1000000,13787000
 spot_market.historical_index_data.last_index_price_twap,1.0,13.7815
 spot_market.historical_index_data.last_index_price_twap5min,1.0,13.7815
 spot_market.historical_index_data.last_index_price_twap_ts,1970-01-01 00:00:00,1970-01-01 00:00:00
-spot_market.revenue_pool.scaled_balance,85.485343624,0.0
+spot_market.revenue_pool.scaled_balance,85.495225618,0.0
 spot_market.revenue_pool.market_index,0,1
 spot_market.revenue_pool.padding,"ListContainer: 
     0
