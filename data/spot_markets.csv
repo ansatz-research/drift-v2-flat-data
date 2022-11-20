@@ -69,9 +69,9 @@ spot_market.name,"ListContainer:
     32
     32
     32"
-spot_market.total_spot_fee,0.0,17.350689
-spot_market.deposit_balance,51390.967221446,1175.540217975
-spot_market.borrow_balance,1529.891584907,60.528592512
+spot_market.total_spot_fee,0.0,17.794339
+spot_market.deposit_balance,51708.70236863,1096.922565195
+spot_market.borrow_balance,877.390623654,60.528592512
 spot_market.cumulative_deposit_interest,1.0000392931,1.0030698858
 spot_market.cumulative_borrow_interest,1.0003802246,1.0063703514
 spot_market.total_social_loss,0,6340251
@@ -88,7 +88,7 @@ spot_market.order_step_size,0.0,0.001
 spot_market.order_tick_size,0.0,0.0001
 spot_market.min_order_size,0.0,0.1
 spot_market.max_position_size,0.0,0.0
-spot_market.next_fill_record_id,1,106
+spot_market.next_fill_record_id,1,116
 spot_market.next_deposit_record_id,435,205
 spot_market.initial_asset_weight,1.0,0.75
 spot_market.maintenance_asset_weight,1.0,0.9
@@ -294,10 +294,10 @@ spot_market.historical_oracle_data.last_oracle_delay,0,1
 spot_market.historical_oracle_data.last_oracle_price_twap,1.0,12.198948
 spot_market.historical_oracle_data.last_oracle_price_twap5min,0.999999,12.140152
 spot_market.historical_oracle_data.last_oracle_price_twap_ts,2022-11-20 22:31:35,2022-11-20 22:04:22
-spot_market.historical_index_data.last_index_bid_price,1.0,12.303
-spot_market.historical_index_data.last_index_ask_price,1000000,12329000
-spot_market.historical_index_data.last_index_price_twap,1.0,12.315999
-spot_market.historical_index_data.last_index_price_twap5min,1.0,12.315999
+spot_market.historical_index_data.last_index_bid_price,1.0,12.315
+spot_market.historical_index_data.last_index_ask_price,1000000,12344000
+spot_market.historical_index_data.last_index_price_twap,1.0,12.329499
+spot_market.historical_index_data.last_index_price_twap5min,1.0,12.329499
 spot_market.historical_index_data.last_index_price_twap_ts,1970-01-01 00:00:00,1970-01-01 00:00:00
 spot_market.revenue_pool.scaled_balance,3.506127457,1.28e-06
 spot_market.revenue_pool.market_index,0,1
@@ -314,7 +314,7 @@ spot_market.revenue_pool.padding,"ListContainer:
     0
     0
     0"
-spot_market.spot_fee_pool.scaled_balance,0.0,17.350482858
+spot_market.spot_fee_pool.scaled_balance,0.0,17.787722669
 spot_market.spot_fee_pool.market_index,0,0
 spot_market.spot_fee_pool.padding,"ListContainer: 
     0
