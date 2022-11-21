@@ -49,7 +49,7 @@ market.margin_ratio_maintenance,0.05
 market.unrealized_pnl_initial_asset_weight,0.0
 market.unrealized_pnl_maintenance_asset_weight,1.0
 market.number_of_users_with_base,61
-market.number_of_users,63
+market.number_of_users,62
 market.market_index,0
 market.status,MarketStatus.Active()
 market.contract_type,ContractType.Perpetual()
@@ -115,14 +115,14 @@ market.amm.concentration_coef,1.02071
 market.amm.min_base_asset_reserve,635191.999866184
 market.amm.max_base_asset_reserve,661774.088953671
 market.amm.sqrt_k,649670.514331126
-market.amm.peg_multiplier,11.627785
+market.amm.peg_multiplier,11.674955
 market.amm.terminal_quote_asset_reserve,650996.904968064
 market.amm.base_asset_amount_long,2126.5
 market.amm.base_asset_amount_short,-2612.1
 market.amm.base_asset_amount_with_amm,-485.53979043
 market.amm.base_asset_amount_with_unsettled_lp,-0.06020957
 market.amm.max_open_interest,4000.0
-market.amm.quote_asset_amount,6751.248588
+market.amm.quote_asset_amount,6751.247312
 market.amm.quote_entry_amount_long,-27195.681605
 market.amm.quote_entry_amount_short,31750.698241
 market.amm.quote_break_even_amount_long,-27283.898515
@@ -135,8 +135,8 @@ market.amm.last24h_avg_funding_rate,-0.000220374
 market.amm.total_fee,5119.282558
 market.amm.total_mm_fee,4172.663954
 market.amm.total_exchange_fee,964.646866
-market.amm.total_fee_minus_distributions,8017.75763
-market.amm.total_fee_withdrawn,815.742963
+market.amm.total_fee_minus_distributions,8040.736947
+market.amm.total_fee_withdrawn,815.749354
 market.amm.total_liquidation_fee,333.425921
 market.amm.cumulative_funding_rate_long,-0.306307451
 market.amm.cumulative_funding_rate_short,-0.308369126
@@ -145,15 +145,15 @@ market.amm.ask_base_asset_reserve,648022.338051279
 market.amm.ask_quote_asset_reserve,651322.882573024
 market.amm.bid_base_asset_reserve,649951.0424669
 market.amm.bid_quote_asset_reserve,649390.107275294
-market.amm.last_oracle_normalised_price,11.657853
+market.amm.last_oracle_normalised_price,11.705138
 market.amm.last_oracle_reserve_price_spread_pct,0.0
 market.amm.last_bid_price_twap,11.676217
 market.amm.last_ask_price_twap,11.715639
 market.amm.last_mark_price_twap,11.695928
 market.amm.last_mark_price_twap5min,11.644563
-market.amm.last_update_slot,162284195
-market.amm.last_oracle_conf_pct,0.001899
-market.amm.net_revenue_since_last_funding,-37.468134
+market.amm.last_update_slot,162285308
+market.amm.last_oracle_conf_pct,0.001269
+market.amm.net_revenue_since_last_funding,-14.488817
 market.amm.last_funding_rate_ts,1669014029
 market.amm.funding_period,3600
 market.amm.order_step_size,0.1
@@ -165,7 +165,7 @@ market.amm.long_intensity_volume,1080.834028
 market.amm.short_intensity_volume,1132.38897
 market.amm.last_trade_ts,2022-11-21 07:47:28
 market.amm.mark_std,0.078171
-market.amm.oracle_std,67763
+market.amm.oracle_std,17640
 market.amm.last_mark_price_twap_ts,2022-11-21 07:47:28
 market.amm.base_spread,0.005
 market.amm.max_spread,0.03
@@ -228,13 +228,13 @@ market.amm.padding,"ListContainer:
     0
     0
     0"
-market.amm.historical_oracle_data.last_oracle_price,11.657853
+market.amm.historical_oracle_data.last_oracle_price,11.705138
 market.amm.historical_oracle_data.last_oracle_conf,0.0
 market.amm.historical_oracle_data.last_oracle_delay,5
-market.amm.historical_oracle_data.last_oracle_price_twap,11.725616
-market.amm.historical_oracle_data.last_oracle_price_twap5min,11.663784
-market.amm.historical_oracle_data.last_oracle_price_twap_ts,2022-11-21 07:47:28
-market.amm.fee_pool.scaled_balance,1.244098021
+market.amm.historical_oracle_data.last_oracle_price_twap,11.722778
+market.amm.historical_oracle_data.last_oracle_price_twap5min,11.705138
+market.amm.historical_oracle_data.last_oracle_price_twap_ts,2022-11-21 07:55:47
+market.amm.fee_pool.scaled_balance,1.237707273
 market.amm.fee_pool.market_index,0
 market.amm.fee_pool.padding,"ListContainer: 
     0
@@ -248,7 +248,7 @@ market.insurance_claim.max_revenue_withdraw_per_period,1000.0
 market.insurance_claim.quote_max_insurance,1000.0
 market.insurance_claim.quote_settled_insurance,1.837328
 market.insurance_claim.last_revenue_withdraw_ts,1668082260
-market.pnl_pool.scaled_balance,8898.340385967
+market.pnl_pool.scaled_balance,8898.339110018
 market.pnl_pool.market_index,0
 market.pnl_pool.padding,"ListContainer: 
     0
