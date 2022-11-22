@@ -2,8 +2,8 @@
 authority,5SeNtCBx15SLG7VHKh1g5Ntj3pBUvo5ik1RBMz6uWsD7
 delegate,11111111111111111111111111111111
 last_add_perp_lp_shares_ts,0
-total_deposits,2319250400
-total_withdraws,0
+total_deposits,2320415900
+total_withdraws,1165952
 total_social_loss,0
 settled_perp_pnl,0
 cumulative_spot_fees,0
@@ -103,7 +103,7 @@ is_margin_trading_enabled,False
 1.spot.open_asks,0.0
 1.spot.open_bids,0.0
 1.spot.open_orders,0.0
-1.spot.scaled_balance,199064902395.0
+1.spot.scaled_balance,199064902538.0
 10.order.auction_duration,0
 10.order.auction_end_price,0
 10.order.auction_start_price,0
