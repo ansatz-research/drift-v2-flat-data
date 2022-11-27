@@ -10,7 +10,6 @@ import numpy as np
 
 pd.options.plotting.backend = "plotly"
 
-print(driftpy.__dir__())
 # from driftpy.constants.config import configs
 from anchorpy import Provider, Wallet
 from solana.keypair import Keypair
@@ -59,7 +58,6 @@ configs = {
 
 async def load_and_save_data(pid='', url='https://api.mainnet-beta.solana.com'):
     config = configs['mainnet-beta']
-    # print(config)
     # random key 
     with open("DRFTL7fm2cA13zHTSHnTKpt58uq5E49yr2vUxuonEtYd.json", 'r') as f: secret = json.load(f) 
     kp = Keypair.from_secret_key(bytes(secret))
@@ -73,7 +71,6 @@ async def load_and_save_data(pid='', url='https://api.mainnet-beta.solana.com'):
 
     for user_account in all_users:
         uu = user_account.account.__dict__
-        print(uu.keys())
         perps = pd.json_normalize([x.__dict__ for x in uu['perp_positions']])
         spots = pd.json_normalize([x.__dict__ for x in uu['spot_positions']])
         orders = pd.json_normalize([x.__dict__ for x in uu['orders']])
@@ -97,4 +94,5 @@ async def load_and_save_data(pid='', url='https://api.mainnet-beta.solana.com'):
 
 if __name__ == '__main__':
     loop = asyncio.new_event_loop()
-    loop.run_until_complete(load_and_save_data())
+    url = os.environ['ANCHOR_PROVIDER_URL']
+    loop.run_until_complete(load_and_save_data('', url))

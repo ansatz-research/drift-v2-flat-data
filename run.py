@@ -7,10 +7,8 @@ from tokenize import tabsize
 import driftpy
 import pandas as pd 
 import numpy as np 
-
 pd.options.plotting.backend = "plotly"
 
-print(driftpy.__dir__())
 # from driftpy.constants.config import configs
 from anchorpy import Provider, Wallet
 from solana.keypair import Keypair
@@ -94,4 +92,5 @@ async def load_and_save_data(pid='', url='https://api.mainnet-beta.solana.com'):
 
 if __name__ == '__main__':
     loop = asyncio.new_event_loop()
-    loop.run_until_complete(load_and_save_data())
+    url = os.environ['ANCHOR_PROVIDER_URL']
+    loop.run_until_complete(load_and_save_data('', url))
