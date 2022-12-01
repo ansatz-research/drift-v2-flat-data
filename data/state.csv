@@ -20,9 +20,9 @@ default_market_order_time_in_force,60
 default_spot_auction_duration,10
 exchange_status,ExchangeStatus.Active()
 padding,"ListContainer: 
-    0
-    0
-    0
+    25
+    208
+    7
     0
     0
     0
