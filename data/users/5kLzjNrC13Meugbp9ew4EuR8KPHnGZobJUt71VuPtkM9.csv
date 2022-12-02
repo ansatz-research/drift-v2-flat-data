@@ -7,7 +7,7 @@ total_withdraws,0
 total_social_loss,0
 settled_perp_pnl,-69485081
 cumulative_spot_fees,0
-cumulative_perp_funding,5591129
+cumulative_perp_funding,5788745
 liquidation_margin_freed,0
 liquidation_start_ts,0
 next_order_id,11
@@ -40,7 +40,7 @@ is_margin_trading_enabled,False
 0.order.trigger_price,0
 0.order.user_order_id,0
 0.perp.base_asset_amount,138500000000.0
-0.perp.last_cumulative_funding_rate,-670541371.0
+0.perp.last_cumulative_funding_rate,-671968204.0
 0.perp.last_net_base_asset_amount_per_lp,0.0
 0.perp.last_net_quote_asset_amount_per_lp,0.0
 0.perp.lp_shares,0.0
@@ -48,8 +48,8 @@ is_margin_trading_enabled,False
 0.perp.open_asks,0.0
 0.perp.open_bids,14100000000.0
 0.perp.open_orders,1.0
-0.perp.quote_asset_amount,-1829573052.0
-0.perp.quote_break_even_amount,-1899058133.0
+0.perp.quote_asset_amount,-1829375436.0
+0.perp.quote_break_even_amount,-1898860517.0
 0.perp.quote_entry_amount,-1904812550.0
 0.perp.remainder_base_asset_amount,0.0
 0.perp.settled_pnl,-69485081.0
