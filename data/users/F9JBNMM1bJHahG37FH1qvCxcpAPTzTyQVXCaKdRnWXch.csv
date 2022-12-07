@@ -48,7 +48,7 @@ is_margin_trading_enabled,False
 0.perp.open_asks,0.0
 0.perp.open_bids,0.0
 0.perp.open_orders,0.0
-0.perp.quote_asset_amount,520893.0
+0.perp.quote_asset_amount,554185.0
 0.perp.quote_break_even_amount,0.0
 0.perp.quote_entry_amount,0.0
 0.perp.remainder_base_asset_amount,0.0
@@ -92,7 +92,7 @@ is_margin_trading_enabled,False
 1.perp.open_asks,0.0
 1.perp.open_bids,0.0
 1.perp.open_orders,0.0
-1.perp.quote_asset_amount,165691.0
+1.perp.quote_asset_amount,168095.0
 1.perp.quote_break_even_amount,0.0
 1.perp.quote_entry_amount,0.0
 1.perp.remainder_base_asset_amount,0.0
@@ -366,7 +366,7 @@ is_margin_trading_enabled,False
 2.perp.open_asks,0.0
 2.perp.open_bids,0.0
 2.perp.open_orders,0.0
-2.perp.quote_asset_amount,792356.0
+2.perp.quote_asset_amount,844043.0
 2.perp.quote_break_even_amount,0.0
 2.perp.quote_entry_amount,0.0
 2.perp.remainder_base_asset_amount,0.0
