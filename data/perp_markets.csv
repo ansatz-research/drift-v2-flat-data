@@ -1,6 +1,6 @@
-,0
-,0
-market.pubkey,8UJgxaiQx5nTrdDgph5FiahMmzduuLTLf5WmsPegYA6W
+,0,1,2
+,0,0,0
+market.pubkey,8UJgxaiQx5nTrdDgph5FiahMmzduuLTLf5WmsPegYA6W,2UZMvVTBQR9yWxrEdzEQzXWE61bUjqQ5VpJAGqVb3B19,25Eax9W8SA3wpCQFhJEGyHhQ2NDHEshZEDzyMNtthR8D
 market.name,"ListContainer: 
     83
     79
@@ -33,27 +33,91 @@ market.name,"ListContainer:
     32
     32
     32
+    32","ListContainer: 
+    68
+    101
+    102
+    97
+    117
+    108
+    116
+    32
+    77
+    97
+    114
+    107
+    101
+    116
+    32
+    78
+    97
+    109
+    101
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32","ListContainer: 
+    68
+    101
+    102
+    97
+    117
+    108
+    116
+    32
+    77
+    97
+    114
+    107
+    101
+    116
+    32
+    78
+    97
+    109
+    101
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
     32"
-market.unrealized_pnl_max_imbalance,1000.0
-market.expiry_ts,0
-market.expiry_price,0.0
-market.next_fill_record_id,44074
-market.next_funding_rate_record_id,741
-market.next_curve_record_id,326
-market.imf_factor,1e-05
-market.unrealized_pnl_imf_factor,1e-06
-market.liquidator_fee,0.01
-market.if_liquidation_fee,0.01
-market.margin_ratio_initial,0.1
-market.margin_ratio_maintenance,0.05
-market.unrealized_pnl_initial_asset_weight,0.0
-market.unrealized_pnl_maintenance_asset_weight,1.0
-market.number_of_users_with_base,142
-market.number_of_users,142
-market.market_index,0
-market.status,MarketStatus.Active()
-market.contract_type,ContractType.Perpetual()
-market.contract_tier,ContractTier.C()
+market.unrealized_pnl_max_imbalance,1000.0,0.01,0.01
+market.expiry_ts,0,0,0
+market.expiry_price,0.0,0.0,0.0
+market.next_fill_record_id,44131,1,1
+market.next_funding_rate_record_id,743,1,1
+market.next_curve_record_id,327,1,1
+market.imf_factor,1e-05,1e-06,1e-06
+market.unrealized_pnl_imf_factor,1e-06,1e-06,1e-06
+market.liquidator_fee,0.01,0.01,0.01
+market.if_liquidation_fee,0.01,0.01,0.01
+market.margin_ratio_initial,0.1,0.1,0.1
+market.margin_ratio_maintenance,0.05,0.05,0.05
+market.unrealized_pnl_initial_asset_weight,0.0,0.0,0.0
+market.unrealized_pnl_maintenance_asset_weight,1.0,0.0001,0.0001
+market.number_of_users_with_base,139,0,0
+market.number_of_users,139,0,0
+market.market_index,0,1,2
+market.status,MarketStatus.Active(),MarketStatus.Initialized(),MarketStatus.Initialized()
+market.contract_type,ContractType.Perpetual(),ContractType.Perpetual(),ContractType.Perpetual()
+market.contract_tier,ContractTier.C(),ContractTier.C(),ContractTier.C()
 market.padding,"ListContainer: 
     0
     0
@@ -105,80 +169,182 @@ market.padding,"ListContainer:
     0
     0
     0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
     0"
-market.amm.oracle,H6ARHf6YXhGYeQfUzQNGk6rDNnLBQKrenN712K4AQJEG
-market.amm.base_asset_amount_per_lp,-2032775
-market.amm.quote_asset_amount_per_lp,60104
-market.amm.base_asset_reserve,997274.622537648
-market.amm.quote_asset_reserve,1017891.030857524
-market.amm.concentration_coef,1.02071
-market.amm.min_base_asset_reserve,979453.281102114
-market.amm.max_base_asset_reserve,1020442.327533386
-market.amm.sqrt_k,1007530.095621414
-market.amm.peg_multiplier,14.005103
-market.amm.terminal_quote_asset_reserve,1015383.169133678
-market.amm.base_asset_amount_long,7931.8
-market.amm.base_asset_amount_short,-5468.7
-market.amm.base_asset_amount_with_amm,2463.136016091
-market.amm.base_asset_amount_with_unsettled_lp,-0.036016091
-market.amm.max_open_interest,12000.0
-market.amm.quote_asset_amount,-30796.926266
-market.amm.quote_entry_amount_long,-111944.818723
-market.amm.quote_entry_amount_short,76006.930342
-market.amm.quote_break_even_amount_long,-111680.871329
-market.amm.quote_break_even_amount_short,75564.397799
-market.amm.user_lp_shares,511.8
-market.amm.last_funding_rate,0.000782166
-market.amm.last_funding_rate_long,0.000782166
-market.amm.last_funding_rate_short,0.000782166
-market.amm.last24h_avg_funding_rate,-0.000975956
-market.amm.total_fee,10799.347621
-market.amm.total_mm_fee,7955.19175
-market.amm.total_exchange_fee,2883.88393
-market.amm.total_fee_minus_distributions,14851.288362
-market.amm.total_fee_withdrawn,2170.23668
-market.amm.total_liquidation_fee,728.294715
-market.amm.cumulative_funding_rate_long,-0.744932913
-market.amm.cumulative_funding_rate_short,-0.746994588
-market.amm.total_social_loss,0
-market.amm.ask_base_asset_reserve,995711.496170035
-market.amm.ask_quote_asset_reserve,1019488.975960911
-market.amm.bid_base_asset_reserve,997455.190095594
-market.amm.bid_quote_asset_reserve,1017706.763835284
-market.amm.last_oracle_normalised_price,14.294628
-market.amm.last_oracle_reserve_price_spread_pct,0.0
-market.amm.last_bid_price_twap,14.187355
-market.amm.last_ask_price_twap,14.222889
-market.amm.last_mark_price_twap,14.205122
-market.amm.last_mark_price_twap5min,14.29327
-market.amm.last_update_slot,165348904
-market.amm.last_oracle_conf_pct,0.000834
-market.amm.net_revenue_since_last_funding,-485.351967
-market.amm.last_funding_rate_ts,1670367655
-market.amm.funding_period,3600
-market.amm.order_step_size,0.1
-market.amm.order_tick_size,0.0001
-market.amm.min_order_size,0.1
-market.amm.max_position_size,0.0
-market.amm.volume24h,297595.134733
-market.amm.long_intensity_volume,185.050182
-market.amm.short_intensity_volume,913.981561
-market.amm.last_trade_ts,2022-12-06 23:59:04
-market.amm.mark_std,0.096939
-market.amm.oracle_std,17010
-market.amm.last_mark_price_twap_ts,2022-12-06 23:57:54
-market.amm.base_spread,0.0005
-market.amm.max_spread,0.0035
-market.amm.long_spread,0.003138
-market.amm.short_spread,0.000362
-market.amm.long_intensity_count,0
-market.amm.short_intensity_count,0
-market.amm.max_fill_reserve_fraction,100
-market.amm.max_slippage_ratio,50
-market.amm.curve_update_intensity,100
-market.amm.amm_jit_intensity,100
-market.amm.oracle_source,OracleSource.Pyth()
-market.amm.last_oracle_valid,True
+market.amm.oracle,H6ARHf6YXhGYeQfUzQNGk6rDNnLBQKrenN712K4AQJEG,GVXRSBjFk6e6J3NbVPXohDJetcTjaeeuykUpbQF8UoMU,JBu1AL4obBcCMqKBBxhpWCNUt136ijcuMZLFvTP7iWdB
+market.amm.base_asset_amount_per_lp,-1925377,0,0
+market.amm.quote_asset_amount_per_lp,58556,0,0
+market.amm.base_asset_reserve,996393.93671511,2344.32927598,31551.432277662
+market.amm.quote_asset_reserve,1016754.154739788,2344.32927598,31551.432277662
+market.amm.concentration_coef,1.02071,1.02071,1.02071
+market.amm.min_base_asset_reserve,978476.185887767,2296.763307873,30911.260081376
+market.amm.max_base_asset_reserve,1019424.341955118,2392.880335285,32204.862440132
+market.amm.sqrt_k,1006522.565525792,2344.32927598,31551.432277662
+market.amm.peg_multiplier,13.885024,17062.44955,1267.77129
+market.amm.terminal_quote_asset_reserve,1014365.341401264,2344.32927598,31551.432277662
+market.amm.base_asset_amount_long,7784.2,0.0,0.0
+market.amm.base_asset_amount_short,-5437.8,0.0,0.0
+market.amm.base_asset_amount_with_amm,2346.490982393,0.0,0.0
+market.amm.base_asset_amount_with_unsettled_lp,-0.090982393,0.0,0.0
+market.amm.max_open_interest,12000.0,1.0,10.0
+market.amm.quote_asset_amount,-29115.558421,0.0,0.0
+market.amm.quote_entry_amount_long,-109855.637423,0.0,0.0
+market.amm.quote_entry_amount_short,75574.846466,0.0,0.0
+market.amm.quote_break_even_amount_long,-109602.151273,0.0,0.0
+market.amm.quote_break_even_amount_short,75115.258195,0.0,0.0
+market.amm.user_lp_shares,511.8,0.0,0.0
+market.amm.last_funding_rate,-0.000490333,0.0,0.0
+market.amm.last_funding_rate_long,-0.000490333,0.0,0.0
+market.amm.last_funding_rate_short,-0.000490333,0.0,0.0
+market.amm.last24h_avg_funding_rate,-0.001034398,0.0,0.0
+market.amm.total_fee,10800.265818,0.0,0.0
+market.amm.total_mm_fee,7955.649388,0.0,0.0
+market.amm.total_exchange_fee,2884.396353,0.0,0.0
+market.amm.total_fee_minus_distributions,15128.77578,0.0,0.0
+market.amm.total_fee_withdrawn,2170.492891,0.0,0.0
+market.amm.total_liquidation_fee,728.294715,0.0,0.0
+market.amm.cumulative_funding_rate_long,-0.748400079,0.0,0.0
+market.amm.cumulative_funding_rate_short,-0.750461754,0.0,0.0
+market.amm.total_social_loss,0,0,0
+market.amm.ask_base_asset_reserve,994809.844605865,2341.402522827,31492.347198491
+market.amm.ask_quote_asset_reserve,1018373.190018036,2347.259687574,31610.62821064
+market.amm.bid_base_asset_reserve,996551.394669711,2347.263355172,31610.73948119
+market.amm.bid_quote_asset_reserve,1016593.504691639,2341.398864386,31492.236344684
+market.amm.last_oracle_normalised_price,14.16875,17066.2775,1268.85
+market.amm.last_oracle_reserve_price_spread_pct,0.0,0.0,0.0
+market.amm.last_bid_price_twap,14.214024,17062.44955,1267.77129
+market.amm.last_ask_price_twap,14.256251,17062.44955,1267.77129
+market.amm.last_mark_price_twap,14.235137,17062.44955,1267.77129
+market.amm.last_mark_price_twap5min,14.201602,17062.44955,1267.77129
+market.amm.last_update_slot,165359972,165357188,165357199
+market.amm.last_oracle_conf_pct,0.00097,0.0,0.0
+market.amm.net_revenue_since_last_funding,61.588557,0.0,0.0
+market.amm.last_funding_rate_ts,1670374857,1670374775,1670374779
+market.amm.funding_period,3600,3600,3600
+market.amm.order_step_size,0.1,0.0001,0.001
+market.amm.order_tick_size,0.0001,0.01,0.01
+market.amm.min_order_size,0.1,0.001,0.001
+market.amm.max_position_size,0.0,0.0,0.0
+market.amm.volume24h,282340.241489,0.0,0.0
+market.amm.long_intensity_volume,114.905125,0.0,0.0
+market.amm.short_intensity_volume,766.018138,0.0,0.0
+market.amm.last_trade_ts,2022-12-07 01:18:28,2022-12-07 00:59:35,2022-12-07 00:59:39
+market.amm.mark_std,0.010947,0.0,0.0
+market.amm.oracle_std,67815,0,0
+market.amm.last_mark_price_twap_ts,2022-12-07 01:18:28,2022-12-07 00:59:35,2022-12-07 00:59:39
+market.amm.base_spread,0.0005,0.0001,0.00025
+market.amm.max_spread,0.0035,0.01,0.01
+market.amm.long_spread,0.003184,5e-05,0.000125
+market.amm.short_spread,0.000316,5e-05,0.000125
+market.amm.long_intensity_count,2,0,0
+market.amm.short_intensity_count,0,0,0
+market.amm.max_fill_reserve_fraction,100,100,100
+market.amm.max_slippage_ratio,50,50,50
+market.amm.curve_update_intensity,100,100,100
+market.amm.amm_jit_intensity,100,100,100
+market.amm.oracle_source,OracleSource.Pyth(),OracleSource.Pyth(),OracleSource.Pyth()
+market.amm.last_oracle_valid,True,False,False
 market.amm.padding,"ListContainer: 
     0
     0
@@ -227,30 +393,150 @@ market.amm.padding,"ListContainer:
     0
     0
     0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
     0"
-market.amm.historical_oracle_data.last_oracle_price,14.294628
-market.amm.historical_oracle_data.last_oracle_conf,0.0
-market.amm.historical_oracle_data.last_oracle_delay,1
-market.amm.historical_oracle_data.last_oracle_price_twap,14.277618
-market.amm.historical_oracle_data.last_oracle_price_twap5min,14.290372
-market.amm.historical_oracle_data.last_oracle_price_twap_ts,2022-12-06 23:59:04
-market.amm.fee_pool.scaled_balance,22.351674828
-market.amm.fee_pool.market_index,0
+market.amm.historical_oracle_data.last_oracle_price,14.16875,17066.2775,1268.85
+market.amm.historical_oracle_data.last_oracle_conf,0.0,0.0,0.0
+market.amm.historical_oracle_data.last_oracle_delay,2,2,1
+market.amm.historical_oracle_data.last_oracle_price_twap,14.236565,17060.1827,1266.6986
+market.amm.historical_oracle_data.last_oracle_price_twap5min,14.176756,17066.2775,1268.85
+market.amm.historical_oracle_data.last_oracle_price_twap_ts,2022-12-07 01:19:53,2022-12-07 00:59:35,2022-12-07 00:59:39
+market.amm.fee_pool.scaled_balance,24.458395261,0.0,0.0
+market.amm.fee_pool.market_index,0,0,0
 market.amm.fee_pool.padding,"ListContainer: 
     0
     0
     0
     0
     0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
     0"
-market.insurance_claim.revenue_withdraw_since_last_settle,32.871317
-market.insurance_claim.max_revenue_withdraw_per_period,1000.0
-market.insurance_claim.quote_max_insurance,1000.0
-market.insurance_claim.quote_settled_insurance,1.847328
-market.insurance_claim.last_revenue_withdraw_ts,1668082260
-market.pnl_pool.scaled_balance,19011.992011472
-market.pnl_pool.market_index,0
+market.insurance_claim.revenue_withdraw_since_last_settle,32.871317,0.0,0.0
+market.insurance_claim.max_revenue_withdraw_per_period,1000.0,0.0001,0.0001
+market.insurance_claim.quote_max_insurance,1000.0,0.001,0.001
+market.insurance_claim.quote_settled_insurance,1.847328,0.0,0.0
+market.insurance_claim.last_revenue_withdraw_ts,1668082260,0,0
+market.pnl_pool.scaled_balance,19037.342359376,0.0,0.0
+market.pnl_pool.market_index,0,0,0
 market.pnl_pool.padding,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
     0
     0
     0
