@@ -6,7 +6,7 @@ total_deposits,24794786313
 total_withdraws,1819537044
 total_social_loss,0
 settled_perp_pnl,-1556886580
-cumulative_spot_fees,-226702013
+cumulative_spot_fees,-227302049
 cumulative_perp_funding,597075290
 liquidation_margin_freed,0
 liquidation_start_ts,0
@@ -20,7 +20,7 @@ is_margin_trading_enabled,True
 0.order.auction_end_price,0
 0.order.auction_start_price,0
 0.order.base_asset_amount,1000000000000
-0.order.base_asset_amount_filled,443702000000
+0.order.base_asset_amount_filled,486619000000
 0.order.direction,PositionDirection.Long()
 0.order.existing_position_direction,PositionDirection.Long()
 0.order.immediate_or_cancel,False
@@ -32,7 +32,7 @@ is_margin_trading_enabled,True
 0.order.order_type,OrderType.Limit()
 0.order.post_only,False
 0.order.price,0
-0.order.quote_asset_amount_filled,6248297208
+0.order.quote_asset_amount_filled,6848329655
 0.order.reduce_only,False
 0.order.slot,165373463
 0.order.status,OrderStatus.Open()
@@ -54,12 +54,12 @@ is_margin_trading_enabled,True
 0.perp.remainder_base_asset_amount,0.0
 0.perp.settled_pnl,-2017138911.0
 0.spot.balance_type,SpotBalanceType.Borrow()
-0.spot.cumulative_deposits,-4179829443.0
+0.spot.cumulative_deposits,-4779861890.0
 0.spot.market_index,0.0
 0.spot.open_asks,0.0
 0.spot.open_bids,0.0
 0.spot.open_orders,0.0
-0.spot.scaled_balance,5959975893348.0
+0.spot.scaled_balance,6560110980676.0
 1.order.auction_duration,0
 1.order.auction_end_price,0
 1.order.auction_start_price,0
@@ -98,12 +98,12 @@ is_margin_trading_enabled,True
 1.perp.remainder_base_asset_amount,0.0
 1.perp.settled_pnl,-5800.0
 1.spot.balance_type,SpotBalanceType.Deposit()
-1.spot.cumulative_deposits,1918853683981.0
+1.spot.cumulative_deposits,1961770683981.0
 1.spot.market_index,1.0
 1.spot.open_asks,0.0
-1.spot.open_bids,556298000000.0
+1.spot.open_bids,513381000000.0
 1.spot.open_orders,1.0
-1.spot.scaled_balance,1869138535533.0
+1.spot.scaled_balance,1911478878246.0
 10.order.auction_duration,0
 10.order.auction_end_price,0
 10.order.auction_start_price,0
