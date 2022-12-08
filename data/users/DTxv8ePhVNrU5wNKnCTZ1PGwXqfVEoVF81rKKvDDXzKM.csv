@@ -10,7 +10,7 @@ cumulative_spot_fees,0
 cumulative_perp_funding,1002472
 liquidation_margin_freed,0
 liquidation_start_ts,0
-next_order_id,31
+next_order_id,32
 max_margin_ratio,0
 next_liquidation_id,4
 sub_account_id,2
@@ -52,7 +52,7 @@ is_margin_trading_enabled,False
 0.perp.quote_break_even_amount,0.0
 0.perp.quote_entry_amount,0.0
 0.perp.remainder_base_asset_amount,0.0
-0.perp.settled_pnl,268838.0
+0.perp.settled_pnl,0.0
 0.spot.balance_type,SpotBalanceType.Deposit()
 0.spot.cumulative_deposits,4004521.0
 0.spot.market_index,0.0
