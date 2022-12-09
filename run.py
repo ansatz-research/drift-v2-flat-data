@@ -16,6 +16,7 @@ from solana.rpc.async_api import AsyncClient
 from driftpy.clearing_house import ClearingHouse
 from driftpy.accounts import get_perp_market_account, get_spot_market_account, get_user_account, get_state_account
 from driftpy.constants.numeric_constants import * 
+from driftpy.addresses import * 
 import os
 import json
 from driftpy.constants.banks import devnet_banks, Bank
@@ -86,6 +87,18 @@ async def load_and_save_data(pid='', url='https://api.mainnet-beta.solana.com'):
         market_name = ''.join(map(chr, market.name))
         print(market_name)
         smdfs[i] = serialize_spot_market(market).T
+
+        spot_vault = get_spot_market_vault_public_key(ch.program_id, i)
+        spot_v_amount = int((await ch.program.provider.connection.get_token_account_balance(spot_vault))['result']['value']['amount'])
+
+        if_vault = get_insurance_fund_vault_public_key(ch.program_id, i)
+        if_v_amount = int((await ch.program.provider.connection.get_token_account_balance(if_vault))['result']['value']['amount'])
+
+        vault_amts = pd.DataFrame([[if_v_amount], [spot_v_amount]],
+        index=['insurance_fund_vault_amt', 'spot_vault_amt'], columns=[0])
+        print(vault_amts)
+        smdfs[i] = pd.concat([smdfs[i], vault_amts])
+
 
     pd.concat(smdfs, axis=1).to_csv("data/spot_markets.csv")
 
