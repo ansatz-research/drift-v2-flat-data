@@ -33,7 +33,7 @@ jobs:
                   EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
                   EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
                   ANCHOR_PROVIDER_URL: ${{ secrets.ANCHOR_PROVIDER_URL }}
-              run: python run.py && sleep 3 && python run_users.py
+              run: python run.py && sleep 3 && python run_users.py && sleep 3 && python run_userstats.py && sleep 3 && python run_ifstakers.py
 
             - name: commit files
               run: |
