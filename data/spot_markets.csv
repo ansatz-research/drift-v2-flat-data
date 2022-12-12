@@ -70,19 +70,19 @@ spot_market.name,"ListContainer:
     32
     32"
 spot_market.total_spot_fee,0.0,152.346296
-spot_market.deposit_balance,153214.91838205,12616.631096556
+spot_market.deposit_balance,153214.918508023,12616.631096556
 spot_market.borrow_balance,25323.233754291,149.586662206
-spot_market.cumulative_deposit_interest,1.0001669162,1.013631346
-spot_market.cumulative_borrow_interest,1.0015035463,1.0236130526
+spot_market.cumulative_deposit_interest,1.0001670701,1.013631346
+spot_market.cumulative_borrow_interest,1.0015044935,1.0236130526
 spot_market.total_social_loss,0,6340251
 spot_market.total_quote_social_loss,0,87841
 spot_market.withdraw_guard_threshold,100000.0,2000.0
 spot_market.max_token_deposits,500000.0,20000.0
-spot_market.deposit_token_twap,155813.717332,11764.829807155
-spot_market.borrow_token_twap,24288.708002,326.625182732
-spot_market.utilization_twap,0.158656,0.0286
-spot_market.last_interest_ts,1670852049,1670850009
-spot_market.last_twap_ts,1670852049,1670850009
+spot_market.deposit_token_twap,155795.756412,11764.829807155
+spot_market.borrow_token_twap,24296.194824,326.625182732
+spot_market.utilization_twap,0.158728,0.0286
+spot_market.last_interest_ts,1670852649,1670850009
+spot_market.last_twap_ts,1670852649,1670850009
 spot_market.expiry_ts,0,0
 spot_market.order_step_size,0.0,0.001
 spot_market.order_tick_size,0.0,0.0001
@@ -299,7 +299,7 @@ spot_market.historical_index_data.last_index_ask_price,1000000,13424000
 spot_market.historical_index_data.last_index_price_twap,1.0,13.4175
 spot_market.historical_index_data.last_index_price_twap5min,1.0,13.4175
 spot_market.historical_index_data.last_index_price_twap_ts,1970-01-01 00:00:00,1970-01-01 00:00:00
-spot_market.revenue_pool.scaled_balance,0.892762406,0.0
+spot_market.revenue_pool.scaled_balance,0.973259938,0.0
 spot_market.revenue_pool.market_index,0,1
 spot_market.revenue_pool.padding,"ListContainer: 
     0
