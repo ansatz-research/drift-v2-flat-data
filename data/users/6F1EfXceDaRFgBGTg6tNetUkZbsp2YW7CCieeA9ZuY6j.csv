@@ -20,7 +20,7 @@ is_margin_trading_enabled,False
 0.order.auction_end_price,0
 0.order.auction_start_price,0
 0.order.base_asset_amount,8933000000
-0.order.base_asset_amount_filled,861000000
+0.order.base_asset_amount_filled,865000000
 0.order.direction,PositionDirection.Short()
 0.order.existing_position_direction,PositionDirection.Short()
 0.order.immediate_or_cancel,False
@@ -32,7 +32,7 @@ is_margin_trading_enabled,False
 0.order.order_type,OrderType.Limit()
 0.order.post_only,True
 0.order.price,0
-0.order.quote_asset_amount_filled,1133602820
+0.order.quote_asset_amount_filled,1138881630
 0.order.reduce_only,False
 0.order.slot,166685580
 0.order.status,OrderStatus.Open()
@@ -45,12 +45,12 @@ is_margin_trading_enabled,False
 0.perp.last_net_quote_asset_amount_per_lp,0.0
 0.perp.lp_shares,0.0
 0.perp.market_index,2.0
-0.perp.open_asks,-8072000000.0
-0.perp.open_bids,5772000000.0
+0.perp.open_asks,-8068000000.0
+0.perp.open_bids,5768000000.0
 0.perp.open_orders,2.0
-0.perp.quote_asset_amount,-3021752376.0
-0.perp.quote_break_even_amount,-3026515249.0
-0.perp.quote_entry_amount,-3027294721.0
+0.perp.quote_asset_amount,-3021745940.0
+0.perp.quote_break_even_amount,-3026526400.0
+0.perp.quote_entry_amount,-3027306622.0
 0.perp.remainder_base_asset_amount,0.0
 0.perp.settled_pnl,-217001306.0
 0.spot.balance_type,SpotBalanceType.Deposit()
@@ -64,7 +64,7 @@ is_margin_trading_enabled,False
 1.order.auction_end_price,0
 1.order.auction_start_price,0
 1.order.base_asset_amount,8950000000
-1.order.base_asset_amount_filled,3178000000
+1.order.base_asset_amount_filled,3182000000
 1.order.direction,PositionDirection.Long()
 1.order.existing_position_direction,PositionDirection.Short()
 1.order.immediate_or_cancel,False
@@ -76,7 +76,7 @@ is_margin_trading_enabled,False
 1.order.order_type,OrderType.Limit()
 1.order.post_only,True
 1.order.price,0
-1.order.quote_asset_amount_filled,4181087280
+1.order.quote_asset_amount_filled,4186361760
 1.order.reduce_only,False
 1.order.slot,166685580
 1.order.status,OrderStatus.Open()
