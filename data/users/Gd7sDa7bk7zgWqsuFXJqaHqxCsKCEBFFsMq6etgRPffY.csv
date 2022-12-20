@@ -8,13 +8,13 @@ total_social_loss,0
 settled_perp_pnl,-15302672
 cumulative_spot_fees,0
 cumulative_perp_funding,44221
-liquidation_margin_freed,144721
-liquidation_start_ts,167872322
+liquidation_margin_freed,0
+liquidation_start_ts,0
 next_order_id,3
 max_margin_ratio,0
 next_liquidation_id,3
 sub_account_id,0
-status,UserStatus.BeingLiquidated()
+status,UserStatus.Active()
 is_margin_trading_enabled,False
 0.order.auction_duration,0
 0.order.auction_end_price,0
