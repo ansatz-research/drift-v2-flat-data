@@ -3,10 +3,10 @@ authority,29JVska5UEG3axs63EmtHpPvkswNEqYpZ3PKMSfupiAG
 referrer,11111111111111111111111111111111
 next_epoch_ts,0
 maker_volume30d,0
-taker_volume30d,446709003
+taker_volume30d,326146875
 filler_volume30d,0
 last_maker_volume30d_ts,1669663900
-last_taker_volume30d_ts,1671207834
+last_taker_volume30d_ts,1672151783
 last_filler_volume30d_ts,1669663900
 if_staked_quote_asset_amount,0
 number_of_sub_accounts,1
