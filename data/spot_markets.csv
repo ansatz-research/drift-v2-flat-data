@@ -70,26 +70,26 @@ spot_market.name,"ListContainer:
     32
     32"
 spot_market.total_spot_fee,0.0,158.932709
-spot_market.deposit_balance,573238.08743248,22914.698079881
-spot_market.borrow_balance,92852.806821001,1100.375142803
-spot_market.cumulative_deposit_interest,1.0020927689,1.0136398506
-spot_market.cumulative_borrow_interest,1.0107103725,1.0240350774
+spot_market.deposit_balance,573238.090504007,22860.438178035
+spot_market.borrow_balance,92323.996789188,1100.375142803
+spot_market.cumulative_deposit_interest,1.0020936411,1.0136398956
+spot_market.cumulative_borrow_interest,1.0107158447,1.0240360712
 spot_market.total_social_loss,0,6340251
 spot_market.total_quote_social_loss,0,87841
 spot_market.withdraw_guard_threshold,100000.0,2000.0
 spot_market.max_token_deposits,1000000.0,42000.0
-spot_market.deposit_token_twap,568338.86584,22947.467606973
-spot_market.borrow_token_twap,104380.335557,868.020061777
-spot_market.utilization_twap,0.186718,0.037843
-spot_market.last_interest_ts,1672290204,1672290204
-spot_market.last_twap_ts,1672290204,1672290204
+spot_market.deposit_token_twap,568414.498684,22950.506689943
+spot_market.borrow_token_twap,104246.406347,871.137708943
+spot_market.utilization_twap,0.186477,0.03799
+spot_market.last_interest_ts,1672291251,1672291251
+spot_market.last_twap_ts,1672291251,1672291251
 spot_market.expiry_ts,0,0
 spot_market.order_step_size,0.0,0.001
 spot_market.order_tick_size,0.0,0.0001
 spot_market.min_order_size,0.0,0.1
 spot_market.max_position_size,0.0,0.0
 spot_market.next_fill_record_id,1,768
-spot_market.next_deposit_record_id,8304,7293
+spot_market.next_deposit_record_id,8359,7348
 spot_market.initial_asset_weight,1.0,0.8
 spot_market.maintenance_asset_weight,1.0,0.9
 spot_market.initial_liability_weight,1.0,1.2
@@ -288,18 +288,18 @@ spot_market.insurance_fund.last_revenue_settle_ts,1672290010,1672290011
 spot_market.insurance_fund.revenue_settle_period,3600,3600
 spot_market.insurance_fund.total_factor,10000,10000
 spot_market.insurance_fund.user_factor,5000,5000
-spot_market.historical_oracle_data.last_oracle_price,1.0,9.74454
-spot_market.historical_oracle_data.last_oracle_conf,1e-06,0.00676
+spot_market.historical_oracle_data.last_oracle_price,1.0,9.711
+spot_market.historical_oracle_data.last_oracle_conf,1e-06,0.010684
 spot_market.historical_oracle_data.last_oracle_delay,0,1
-spot_market.historical_oracle_data.last_oracle_price_twap,1.000001,9.715455
-spot_market.historical_oracle_data.last_oracle_price_twap5min,1.000001,9.745944
-spot_market.historical_oracle_data.last_oracle_price_twap_ts,2022-12-29 05:03:24,2022-12-29 05:03:24
+spot_market.historical_oracle_data.last_oracle_price_twap,1.000001,9.718802
+spot_market.historical_oracle_data.last_oracle_price_twap5min,1.000001,9.723655
+spot_market.historical_oracle_data.last_oracle_price_twap_ts,2022-12-29 05:20:51,2022-12-29 05:20:51
 spot_market.historical_index_data.last_index_bid_price,1.0,9.458
 spot_market.historical_index_data.last_index_ask_price,1000000,9478000
 spot_market.historical_index_data.last_index_price_twap,1.0,9.468
 spot_market.historical_index_data.last_index_price_twap5min,1.0,9.468
 spot_market.historical_index_data.last_index_price_twap_ts,1970-01-01 00:00:00,1970-01-01 00:00:00
-spot_market.revenue_pool.scaled_balance,336.26286133,0.0
+spot_market.revenue_pool.scaled_balance,336.452921434,0.0
 spot_market.revenue_pool.market_index,0,1
 spot_market.revenue_pool.padding,"ListContainer: 
     0
@@ -330,4 +330,4 @@ spot_market.spot_fee_pool.padding,"ListContainer:
     0
     0"
 insurance_fund_vault_amt,29343744427,763507959
-spot_vault_amt,480592061059,22100435362230
+spot_vault_amt,481126536294,22045435362230
