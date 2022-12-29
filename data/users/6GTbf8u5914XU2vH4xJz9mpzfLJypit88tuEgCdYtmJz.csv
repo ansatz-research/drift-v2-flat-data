@@ -2,7 +2,7 @@
 authority,8WhSD1GaMUgMWcgNiD9Z7S4Fn4g9XBNxudtf8m2TupHH
 delegate,11111111111111111111111111111111
 last_add_perp_lp_shares_ts,0
-total_deposits,2243748578
+total_deposits,2281150910
 total_withdraws,1322018576
 total_social_loss,0
 settled_perp_pnl,-587939516
@@ -12,7 +12,7 @@ liquidation_margin_freed,0
 liquidation_start_ts,0
 next_order_id,897
 max_margin_ratio,0
-next_liquidation_id,9
+next_liquidation_id,10
 sub_account_id,0
 status,UserStatus.Active()
 is_margin_trading_enabled,False
@@ -54,12 +54,12 @@ is_margin_trading_enabled,False
 0.perp.remainder_base_asset_amount,0.0
 0.perp.settled_pnl,-542029331.0
 0.spot.balance_type,SpotBalanceType.Borrow()
-0.spot.cumulative_deposits,309619875.0
+0.spot.cumulative_deposits,382905326.0
 0.spot.market_index,0.0
 0.spot.open_asks,0.0
 0.spot.open_bids,0.0
 0.spot.open_orders,0.0
-0.spot.scaled_balance,278223220750.0
+0.spot.scaled_balance,205734609613.0
 1.order.auction_duration,0
 1.order.auction_end_price,0
 1.order.auction_start_price,0
@@ -98,12 +98,12 @@ is_margin_trading_enabled,False
 1.perp.remainder_base_asset_amount,0.0
 1.perp.settled_pnl,-8250662.0
 1.spot.balance_type,SpotBalanceType.Deposit()
-1.spot.cumulative_deposits,33421154000.0
+1.spot.cumulative_deposits,28306583366.0
 1.spot.market_index,1.0
 1.spot.open_asks,0.0
 1.spot.open_bids,0.0
 1.spot.open_orders,0.0
-1.spot.scaled_balance,33575447462.0
+1.spot.scaled_balance,28529716636.0
 10.order.auction_duration,0
 10.order.auction_end_price,0
 10.order.auction_start_price,0
