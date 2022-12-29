@@ -10,7 +10,7 @@ cumulative_spot_fees,0
 cumulative_perp_funding,730813
 liquidation_margin_freed,0
 liquidation_start_ts,0
-next_order_id,28
+next_order_id,29
 max_margin_ratio,0
 next_liquidation_id,1
 sub_account_id,0
@@ -39,8 +39,8 @@ is_margin_trading_enabled,False
 0.order.trigger_condition,OrderTriggerCondition.Above()
 0.order.trigger_price,0
 0.order.user_order_id,0
-0.perp.base_asset_amount,0.0
-0.perp.last_cumulative_funding_rate,0.0
+0.perp.base_asset_amount,-5100000000.0
+0.perp.last_cumulative_funding_rate,-515738277.0
 0.perp.last_net_base_asset_amount_per_lp,0.0
 0.perp.last_net_quote_asset_amount_per_lp,0.0
 0.perp.lp_shares,0.0
@@ -48,9 +48,9 @@ is_margin_trading_enabled,False
 0.perp.open_asks,-59400000000.0
 0.perp.open_bids,0.0
 0.perp.open_orders,4.0
-0.perp.quote_asset_amount,0.0
-0.perp.quote_break_even_amount,0.0
-0.perp.quote_entry_amount,0.0
+0.perp.quote_asset_amount,47749912.0
+0.perp.quote_break_even_amount,47749912.0
+0.perp.quote_entry_amount,47797710.0
 0.perp.remainder_base_asset_amount,0.0
 0.perp.settled_pnl,442644.0
 0.spot.balance_type,SpotBalanceType.Deposit()
@@ -707,11 +707,11 @@ is_margin_trading_enabled,False
 4.order.existing_position_direction,PositionDirection.Long()
 4.order.immediate_or_cancel,False
 4.order.market_index,0
-4.order.market_type,MarketType.Spot()
+4.order.market_type,MarketType.Perp()
 4.order.max_ts,0
 4.order.oracle_price_offset,0
 4.order.order_id,0
-4.order.order_type,OrderType.Market()
+4.order.order_type,OrderType.Limit()
 4.order.post_only,False
 4.order.price,0
 4.order.quote_asset_amount_filled,0
