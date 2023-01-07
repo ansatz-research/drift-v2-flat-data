@@ -10,7 +10,7 @@ cumulative_spot_fees,0
 cumulative_perp_funding,2479387
 liquidation_margin_freed,0
 liquidation_start_ts,0
-next_order_id,162
+next_order_id,163
 max_margin_ratio,0
 next_liquidation_id,1
 sub_account_id,0
@@ -28,13 +28,13 @@ is_margin_trading_enabled,False
 0.order.market_type,MarketType.Perp()
 0.order.max_ts,0
 0.order.oracle_price_offset,0
-0.order.order_id,161
+0.order.order_id,162
 0.order.order_type,OrderType.Limit()
 0.order.post_only,False
-0.order.price,1234000000
+0.order.price,1261000000
 0.order.quote_asset_amount_filled,0
 0.order.reduce_only,True
-0.order.slot,171134540
+0.order.slot,171216715
 0.order.status,OrderStatus.Open()
 0.order.trigger_condition,OrderTriggerCondition.Above()
 0.order.trigger_price,0
