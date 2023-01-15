@@ -2,8 +2,8 @@
 authority,FfjNqrumgJLYSZKhWbuhrAJg4UTJcPwFeAPBP6aRcjHo
 delegate,11111111111111111111111111111111
 last_add_perp_lp_shares_ts,0
-total_deposits,30000000
-total_withdraws,30000002
+total_deposits,40000000
+total_withdraws,40000002
 total_social_loss,0
 settled_perp_pnl,0
 cumulative_spot_fees,0
