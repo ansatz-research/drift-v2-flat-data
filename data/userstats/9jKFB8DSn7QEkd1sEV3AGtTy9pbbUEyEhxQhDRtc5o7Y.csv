@@ -8,7 +8,7 @@ filler_volume30d,0
 last_maker_volume30d_ts,1669143333
 last_taker_volume30d_ts,1669259612
 last_filler_volume30d_ts,1669143333
-if_staked_quote_asset_amount,0
+if_staked_quote_asset_amount,49999999999
 number_of_sub_accounts,1
 number_of_sub_accounts_created,1
 is_referrer,False
