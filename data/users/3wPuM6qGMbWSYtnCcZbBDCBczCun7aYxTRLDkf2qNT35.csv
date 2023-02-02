@@ -10,7 +10,7 @@ cumulative_spot_fees,0
 cumulative_perp_funding,-887925496
 liquidation_margin_freed,0
 liquidation_start_ts,0
-next_order_id,8
+next_order_id,9
 max_margin_ratio,0
 next_liquidation_id,1
 sub_account_id,0
