@@ -7,10 +7,10 @@ total_withdraws,0
 total_social_loss,0
 settled_perp_pnl,-845419565
 cumulative_spot_fees,0
-cumulative_perp_funding,8552758
+cumulative_perp_funding,8514074
 liquidation_margin_freed,0
 liquidation_start_ts,0
-next_order_id,37033
+next_order_id,37155
 max_margin_ratio,0
 next_liquidation_id,1
 sub_account_id,0
@@ -40,7 +40,7 @@ is_margin_trading_enabled,False
 0.order.trigger_price,0
 0.order.user_order_id,0
 0.perp.base_asset_amount,3700000.0
-0.perp.last_cumulative_funding_rate,122444637998.0
+0.perp.last_cumulative_funding_rate,122702093247.0
 0.perp.last_net_base_asset_amount_per_lp,0.0
 0.perp.last_net_quote_asset_amount_per_lp,0.0
 0.perp.lp_shares,0.0
@@ -48,8 +48,8 @@ is_margin_trading_enabled,False
 0.perp.open_asks,0.0
 0.perp.open_bids,0.0
 0.perp.open_orders,0.0
-0.perp.quote_asset_amount,-26430874.0
-0.perp.quote_break_even_amount,-86264821.0
+0.perp.quote_asset_amount,-26431826.0
+0.perp.quote_break_even_amount,-86265773.0
 0.perp.quote_entry_amount,-86314113.0
 0.perp.remainder_base_asset_amount,0.0
 0.perp.settled_pnl,-10794672.0
@@ -84,7 +84,7 @@ is_margin_trading_enabled,False
 1.order.trigger_price,0
 1.order.user_order_id,0
 1.perp.base_asset_amount,296000000.0
-1.perp.last_cumulative_funding_rate,17184882093.0
+1.perp.last_cumulative_funding_rate,17183108677.0
 1.perp.last_net_base_asset_amount_per_lp,0.0
 1.perp.last_net_quote_asset_amount_per_lp,0.0
 1.perp.lp_shares,0.0
@@ -92,8 +92,8 @@ is_margin_trading_enabled,False
 1.perp.open_asks,0.0
 1.perp.open_bids,0.0
 1.perp.open_orders,0.0
-1.perp.quote_asset_amount,-413621768.0
-1.perp.quote_break_even_amount,-490082866.0
+1.perp.quote_asset_amount,-413621244.0
+1.perp.quote_break_even_amount,-490082342.0
 1.perp.quote_entry_amount,-490324741.0
 1.perp.remainder_base_asset_amount,0.0
 1.perp.settled_pnl,-11430757.0
@@ -358,7 +358,7 @@ is_margin_trading_enabled,False
 2.order.trigger_price,0
 2.order.user_order_id,0
 2.perp.base_asset_amount,65200000000.0
-2.perp.last_cumulative_funding_rate,399618563.0
+2.perp.last_cumulative_funding_rate,400205313.0
 2.perp.last_net_base_asset_amount_per_lp,0.0
 2.perp.last_net_quote_asset_amount_per_lp,0.0
 2.perp.lp_shares,0.0
@@ -366,8 +366,8 @@ is_margin_trading_enabled,False
 2.perp.open_asks,0.0
 2.perp.open_bids,0.0
 2.perp.open_orders,0.0
-2.perp.quote_asset_amount,-1579261792.0
-2.perp.quote_break_even_amount,-1650085163.0
+2.perp.quote_asset_amount,-1579300048.0
+2.perp.quote_break_even_amount,-1650123419.0
 2.perp.quote_entry_amount,-1650252001.0
 2.perp.remainder_base_asset_amount,0.0
 2.perp.settled_pnl,-30801580.0
