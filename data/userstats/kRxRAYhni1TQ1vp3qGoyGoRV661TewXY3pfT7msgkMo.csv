@@ -4,10 +4,10 @@ referrer,11111111111111111111111111111111
 next_epoch_ts,0
 maker_volume30d,127265922123
 taker_volume30d,135638813275
-filler_volume30d,4430481804883
+filler_volume30d,4429885952036
 last_maker_volume30d_ts,1675375227
 last_taker_volume30d_ts,1675375233
-last_filler_volume30d_ts,1675432959
+last_filler_volume30d_ts,1675435583
 if_staked_quote_asset_amount,0
 number_of_sub_accounts,2
 number_of_sub_accounts_created,2
