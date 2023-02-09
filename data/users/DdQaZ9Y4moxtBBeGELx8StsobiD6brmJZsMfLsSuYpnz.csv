@@ -99,7 +99,7 @@ is_margin_trading_enabled,False
 1.perp.settled_pnl,0.0
 1.spot.balance_type,SpotBalanceType.Deposit()
 1.spot.cumulative_deposits,0.0
-1.spot.market_index,0.0
+1.spot.market_index,1.0
 1.spot.open_asks,0.0
 1.spot.open_bids,0.0
 1.spot.open_orders,0.0
