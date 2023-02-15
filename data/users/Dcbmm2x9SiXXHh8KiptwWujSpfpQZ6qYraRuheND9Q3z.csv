@@ -15,7 +15,7 @@ max_margin_ratio,0
 next_liquidation_id,9
 sub_account_id,0
 status,UserStatus.Active()
-is_margin_trading_enabled,False
+is_margin_trading_enabled,True
 0.order.auction_duration,0
 0.order.auction_end_price,0
 0.order.auction_start_price,0
