@@ -10,7 +10,7 @@ last_taker_volume30d_ts,1673477810
 last_filler_volume30d_ts,1671467596
 if_staked_quote_asset_amount,0
 number_of_sub_accounts,1
-number_of_sub_accounts_created,1
+number_of_sub_accounts_created,2
 is_referrer,False
 userfees.total_fee_paid,6991867
 userfees.total_fee_rebate,586203
