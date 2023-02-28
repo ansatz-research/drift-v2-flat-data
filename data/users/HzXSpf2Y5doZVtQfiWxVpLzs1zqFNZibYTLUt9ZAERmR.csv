@@ -3,7 +3,7 @@ authority,3U8NzMJcck8Ne9wSbWDkPEnSVUaTPMswbAhckxs6BEXX
 delegate,11111111111111111111111111111111
 last_add_perp_lp_shares_ts,0
 total_deposits,2312184200
-total_withdraws,1496474172
+total_withdraws,1546491483
 total_social_loss,0
 settled_perp_pnl,8773748
 cumulative_spot_fees,39990
@@ -98,12 +98,12 @@ is_margin_trading_enabled,False
 1.perp.remainder_base_asset_amount,0.0
 1.perp.settled_pnl,79826.0
 1.spot.balance_type,SpotBalanceType.Deposit()
-1.spot.cumulative_deposits,2245885970.0
+1.spot.cumulative_deposits,-1117142.0
 1.spot.market_index,1.0
 1.spot.open_asks,0.0
 1.spot.open_bids,21444000000.0
 1.spot.open_orders,9.0
-1.spot.scaled_balance,2214439672.0
+1.spot.scaled_balance,0.0
 10.order.auction_duration,0
 10.order.auction_end_price,0
 10.order.auction_start_price,0

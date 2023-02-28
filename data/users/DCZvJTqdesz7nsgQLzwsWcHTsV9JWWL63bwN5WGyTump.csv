@@ -6,7 +6,7 @@ total_deposits,0
 total_withdraws,360305
 total_social_loss,0
 settled_perp_pnl,0
-cumulative_spot_fees,1635359
+cumulative_spot_fees,1635367
 cumulative_perp_funding,0
 liquidation_margin_freed,0
 liquidation_start_ts,0
@@ -59,7 +59,7 @@ is_margin_trading_enabled,False
 0.spot.open_asks,0.0
 0.spot.open_bids,0.0
 0.spot.open_orders,0.0
-0.spot.scaled_balance,1268932696.0
+0.spot.scaled_balance,1268940657.0
 1.order.auction_duration,0
 1.order.auction_end_price,0
 1.order.auction_start_price,0
