@@ -16,5 +16,5 @@ userfees.total_fee_paid,16688084
 userfees.total_fee_rebate,200557
 userfees.total_token_discount,0
 userfees.total_referee_discount,0
-userfees.total_referrer_reward,7938551
-userfees.current_epoch_referrer_reward,7916347
+userfees.total_referrer_reward,7994843
+userfees.current_epoch_referrer_reward,7972639
