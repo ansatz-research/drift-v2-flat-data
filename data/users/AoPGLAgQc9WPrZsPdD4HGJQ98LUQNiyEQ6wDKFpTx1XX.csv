@@ -5,11 +5,11 @@ last_add_perp_lp_shares_ts,0
 total_deposits,5853220727
 total_withdraws,9400287903
 total_social_loss,0
-settled_perp_pnl,6373574033
-cumulative_spot_fees,477331836
+settled_perp_pnl,6373838043
+cumulative_spot_fees,479851567
 cumulative_perp_funding,43349198
 liquidation_margin_freed,0
-last_active_slot,185545668
+last_active_slot,185552050
 next_order_id,13105
 max_margin_ratio,0
 next_liquidation_id,1
@@ -60,7 +60,7 @@ idle,False
 0.spot.open_asks,0.0
 0.spot.open_bids,0.0
 0.spot.open_orders,0.0
-0.spot.scaled_balance,4788588334598.0
+0.spot.scaled_balance,4791355527636.0
 1.order.auction_duration,0
 1.order.auction_end_price,0
 1.order.auction_start_price,0
@@ -93,7 +93,7 @@ idle,False
 1.perp.open_asks,-495000000000.0
 1.perp.open_bids,1880000000000.0
 1.perp.open_orders,2.0
-1.perp.quote_asset_amount,4153694791.0
+1.perp.quote_asset_amount,4153914791.0
 1.perp.quote_break_even_amount,4122214681.0
 1.perp.quote_entry_amount,4111641414.0
 1.perp.remainder_base_asset_amount,0.0
@@ -637,7 +637,7 @@ idle,False
 3.perp.last_cumulative_funding_rate,0.0
 3.perp.last_quote_asset_amount_per_lp,0.0
 3.perp.lp_shares,0.0
-3.perp.market_index,5.0
+3.perp.market_index,0.0
 3.perp.open_asks,0.0
 3.perp.open_bids,0.0
 3.perp.open_orders,0.0
@@ -645,7 +645,7 @@ idle,False
 3.perp.quote_break_even_amount,0.0
 3.perp.quote_entry_amount,0.0
 3.perp.remainder_base_asset_amount,0.0
-3.perp.settled_pnl,10000.0
+3.perp.settled_pnl,144.0
 3.spot.balance_type,SpotBalanceType.Deposit()
 3.spot.cumulative_deposits,0.0
 3.spot.market_index,0.0
@@ -731,7 +731,7 @@ idle,False
 4.perp.open_asks,0.0
 4.perp.open_bids,31300000.0
 4.perp.open_orders,1.0
-4.perp.quote_asset_amount,915284274.0
+4.perp.quote_asset_amount,915374100.0
 4.perp.quote_break_even_amount,912816144.0
 4.perp.quote_entry_amount,903778374.0
 4.perp.remainder_base_asset_amount,0.0
@@ -819,7 +819,7 @@ idle,False
 6.perp.open_asks,0.0
 6.perp.open_bids,80000000.0
 6.perp.open_orders,1.0
-6.perp.quote_asset_amount,147746231.0
+6.perp.quote_asset_amount,147746736.0
 6.perp.quote_break_even_amount,146487958.0
 6.perp.quote_entry_amount,145037584.0
 6.perp.remainder_base_asset_amount,0.0
