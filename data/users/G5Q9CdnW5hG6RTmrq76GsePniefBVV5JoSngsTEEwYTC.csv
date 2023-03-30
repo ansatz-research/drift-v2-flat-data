@@ -9,8 +9,8 @@ settled_perp_pnl,108383864
 cumulative_spot_fees,-43665
 cumulative_perp_funding,-3358444
 liquidation_margin_freed,0
-last_active_slot,185583917
-next_order_id,228
+last_active_slot,185592182
+next_order_id,229
 max_margin_ratio,0
 next_liquidation_id,1
 sub_account_id,0
