@@ -3,13 +3,13 @@ authority,jesus1p1QWjPqCtNRqmBygcV9VPvZn3ixZPAXDqYUp8
 referrer,11111111111111111111111111111111
 next_epoch_ts,0
 maker_volume30d,1455859379
-taker_volume30d,44844938508
+taker_volume30d,5461402683
 filler_volume30d,0
 last_maker_volume30d_ts,1674080275
-last_taker_volume30d_ts,1675983253
+last_taker_volume30d_ts,1678260264
 last_filler_volume30d_ts,1672359293
 if_staked_quote_asset_amount,0
-number_of_sub_accounts,2
+number_of_sub_accounts,1
 number_of_sub_accounts_created,2
 is_referrer,False
 userfees.total_fee_paid,149738670

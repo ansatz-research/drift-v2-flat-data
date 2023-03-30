@@ -4,12 +4,12 @@ referrer,11111111111111111111111111111111
 next_epoch_ts,0
 maker_volume30d,219574802
 taker_volume30d,168382177
-filler_volume30d,2321590363182
+filler_volume30d,4936400576362
 last_maker_volume30d_ts,1677416416
 last_taker_volume30d_ts,1677417667
-last_filler_volume30d_ts,1677580341
+last_filler_volume30d_ts,1678713671
 if_staked_quote_asset_amount,0
-number_of_sub_accounts,2
+number_of_sub_accounts,0
 number_of_sub_accounts_created,6
 is_referrer,False
 userfees.total_fee_paid,158306
