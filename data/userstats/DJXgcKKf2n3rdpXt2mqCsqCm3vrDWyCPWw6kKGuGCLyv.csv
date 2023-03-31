@@ -2,10 +2,10 @@
 authority,DJXgcKKf2n3rdpXt2mqCsqCm3vrDWyCPWw6kKGuGCLyv
 referrer,11111111111111111111111111111111
 next_epoch_ts,0
-maker_volume30d,866865104911
+maker_volume30d,853421258264
 taker_volume30d,730224882062
 filler_volume30d,0
-last_maker_volume30d_ts,1680192428
+last_maker_volume30d_ts,1680232703
 last_taker_volume30d_ts,1680181232
 last_filler_volume30d_ts,1672417124
 if_staked_quote_asset_amount,0
