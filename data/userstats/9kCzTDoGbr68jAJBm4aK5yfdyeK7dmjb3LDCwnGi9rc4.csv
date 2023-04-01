@@ -2,10 +2,10 @@
 authority,9kCzTDoGbr68jAJBm4aK5yfdyeK7dmjb3LDCwnGi9rc4
 referrer,11111111111111111111111111111111
 next_epoch_ts,0
-maker_volume30d,586358481541
+maker_volume30d,595193409294
 taker_volume30d,866844647602
 filler_volume30d,0
-last_maker_volume30d_ts,1680361191
+last_maker_volume30d_ts,1680368314
 last_taker_volume30d_ts,1680358846
 last_filler_volume30d_ts,1678647731
 if_staked_quote_asset_amount,0
@@ -13,7 +13,7 @@ number_of_sub_accounts,1
 number_of_sub_accounts_created,1
 is_referrer,False
 userfees.total_fee_paid,1103496792
-userfees.total_fee_rebate,150856335
+userfees.total_fee_rebate,150965838
 userfees.total_token_discount,0
 userfees.total_referee_discount,0
 userfees.total_referrer_reward,0
