@@ -9,7 +9,7 @@ settled_perp_pnl,1378692494
 cumulative_spot_fees,0
 cumulative_perp_funding,1600234255
 liquidation_margin_freed,0
-last_active_slot,185913008
+last_active_slot,185943776
 next_order_id,1961389
 max_margin_ratio,0
 next_liquidation_id,1
@@ -42,7 +42,7 @@ idle,False
 0.order.user_order_id,0
 0.perp.base_asset_amount,-500000.0
 0.perp.last_base_asset_amount_per_lp,-433385027.0
-0.perp.last_cumulative_funding_rate,711687411018.0
+0.perp.last_cumulative_funding_rate,711687557101.0
 0.perp.last_quote_asset_amount_per_lp,7893039546.0
 0.perp.lp_shares,450000000000.0
 0.perp.market_index,1.0
