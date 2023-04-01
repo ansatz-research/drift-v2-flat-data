@@ -5,11 +5,11 @@ last_add_perp_lp_shares_ts,0
 total_deposits,900
 total_withdraws,230506912
 total_social_loss,0
-settled_perp_pnl,51346385
-cumulative_spot_fees,187481727
+settled_perp_pnl,51417307
+cumulative_spot_fees,187557541
 cumulative_perp_funding,0
 liquidation_margin_freed,0
-last_active_slot,185998887
+last_active_slot,186001807
 next_order_id,1
 max_margin_ratio,0
 next_liquidation_id,1
@@ -60,7 +60,7 @@ idle,False
 0.spot.open_asks,0.0
 0.spot.open_bids,0.0
 0.spot.open_orders,0.0
-0.spot.scaled_balance,8276620110.0
+0.spot.scaled_balance,8422477590.0
 1.order.auction_duration,0
 1.order.auction_end_price,0
 1.order.auction_start_price,0
