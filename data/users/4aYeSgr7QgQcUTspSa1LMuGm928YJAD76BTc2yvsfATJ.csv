@@ -6,7 +6,7 @@ total_deposits,209676
 total_withdraws,209610
 total_social_loss,0
 settled_perp_pnl,60000
-cumulative_spot_fees,501690
+cumulative_spot_fees,632822
 cumulative_perp_funding,0
 liquidation_margin_freed,0
 last_active_slot,186084319
@@ -60,7 +60,7 @@ idle,False
 0.spot.open_asks,0.0
 0.spot.open_bids,0.0
 0.spot.open_orders,0.0
-0.spot.scaled_balance,558326046.0
+0.spot.scaled_balance,688672578.0
 1.order.auction_duration,0
 1.order.auction_end_price,0
 1.order.auction_start_price,0
