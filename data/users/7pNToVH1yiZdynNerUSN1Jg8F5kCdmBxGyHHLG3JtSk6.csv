@@ -53,7 +53,7 @@ idle,False
 0.perp.quote_break_even_amount,0.0
 0.perp.quote_entry_amount,0.0
 0.perp.remainder_base_asset_amount,0.0
-0.perp.settled_pnl,-406901.0
+0.perp.settled_pnl,0.0
 0.spot.balance_type,SpotBalanceType.Deposit()
 0.spot.cumulative_deposits,1095910121.0
 0.spot.market_index,0.0
