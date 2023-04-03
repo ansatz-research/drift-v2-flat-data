@@ -2,14 +2,14 @@
 authority,HnLHDV8ZEYsxCVSLVmZkVUjQmZWeZZXKs1cFQYQJFtmH
 delegate,11111111111111111111111111111111
 last_add_perp_lp_shares_ts,0
-total_deposits,108737740801
-total_withdraws,112073734841
+total_deposits,114752753401
+total_withdraws,118102755953
 total_social_loss,0
 settled_perp_pnl,4143112148
 cumulative_spot_fees,0
 cumulative_perp_funding,75698237
 liquidation_margin_freed,0
-last_active_slot,186217088
+last_active_slot,186220755
 next_order_id,222
 max_margin_ratio,0
 next_liquidation_id,1
@@ -99,7 +99,7 @@ idle,False
 1.perp.remainder_base_asset_amount,0.0
 1.perp.settled_pnl,0.0
 1.spot.balance_type,SpotBalanceType.Deposit()
-1.spot.cumulative_deposits,-3027245.0
+1.spot.cumulative_deposits,-3027865.0
 1.spot.market_index,1.0
 1.spot.open_asks,0.0
 1.spot.open_bids,0.0
