@@ -9,8 +9,8 @@ settled_perp_pnl,-32507691
 cumulative_spot_fees,0
 cumulative_perp_funding,-237952
 liquidation_margin_freed,0
-last_active_slot,185193709
-next_order_id,14
+last_active_slot,186367660
+next_order_id,15
 max_margin_ratio,0
 next_liquidation_id,1
 sub_account_id,0
@@ -53,7 +53,7 @@ idle,False
 0.perp.quote_break_even_amount,0.0
 0.perp.quote_entry_amount,0.0
 0.perp.remainder_base_asset_amount,0.0
-0.perp.settled_pnl,12456726.0
+0.perp.settled_pnl,0.0
 0.spot.balance_type,SpotBalanceType.Deposit()
 0.spot.cumulative_deposits,46132749.0
 0.spot.market_index,0.0
