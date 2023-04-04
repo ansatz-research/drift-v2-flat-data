@@ -45,7 +45,7 @@ idle,False
 0.perp.last_cumulative_funding_rate,0.0
 0.perp.last_quote_asset_amount_per_lp,0.0
 0.perp.lp_shares,0.0
-0.perp.market_index,0.0
+0.perp.market_index,2.0
 0.perp.open_asks,0.0
 0.perp.open_bids,0.0
 0.perp.open_orders,0.0
