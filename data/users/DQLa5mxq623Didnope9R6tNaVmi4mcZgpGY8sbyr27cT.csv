@@ -5,11 +5,11 @@ last_add_perp_lp_shares_ts,0
 total_deposits,1000
 total_withdraws,264043884
 total_social_loss,0
-settled_perp_pnl,133240416
+settled_perp_pnl,133924091
 cumulative_spot_fees,132238715
 cumulative_perp_funding,0
 liquidation_margin_freed,0
-last_active_slot,186667955
+last_active_slot,186676407
 next_order_id,1
 max_margin_ratio,0
 next_liquidation_id,1
@@ -53,14 +53,14 @@ idle,False
 0.perp.quote_break_even_amount,0.0
 0.perp.quote_entry_amount,0.0
 0.perp.remainder_base_asset_amount,0.0
-0.perp.settled_pnl,10000.0
+0.perp.settled_pnl,20000.0
 0.spot.balance_type,SpotBalanceType.Deposit()
 0.spot.cumulative_deposits,-264042884.0
 0.spot.market_index,0.0
 0.spot.open_asks,0.0
 0.spot.open_bids,0.0
 0.spot.open_orders,0.0
-0.spot.scaled_balance,1432283517.0
+0.spot.scaled_balance,2111847857.0
 1.order.auction_duration,0
 1.order.auction_end_price,0
 1.order.auction_start_price,0
@@ -89,7 +89,7 @@ idle,False
 1.perp.last_cumulative_funding_rate,0.0
 1.perp.last_quote_asset_amount_per_lp,0.0
 1.perp.lp_shares,0.0
-1.perp.market_index,2.0
+1.perp.market_index,1.0
 1.perp.open_asks,0.0
 1.perp.open_bids,0.0
 1.perp.open_orders,0.0
@@ -97,7 +97,7 @@ idle,False
 1.perp.quote_break_even_amount,0.0
 1.perp.quote_entry_amount,0.0
 1.perp.remainder_base_asset_amount,0.0
-1.perp.settled_pnl,20000.0
+1.perp.settled_pnl,20612.0
 1.spot.balance_type,SpotBalanceType.Deposit()
 1.spot.cumulative_deposits,0.0
 1.spot.market_index,0.0
@@ -637,7 +637,7 @@ idle,False
 3.perp.last_cumulative_funding_rate,0.0
 3.perp.last_quote_asset_amount_per_lp,0.0
 3.perp.lp_shares,0.0
-3.perp.market_index,6.0
+3.perp.market_index,2.0
 3.perp.open_asks,0.0
 3.perp.open_bids,0.0
 3.perp.open_orders,0.0
@@ -645,7 +645,7 @@ idle,False
 3.perp.quote_break_even_amount,0.0
 3.perp.quote_entry_amount,0.0
 3.perp.remainder_base_asset_amount,0.0
-3.perp.settled_pnl,10000.0
+3.perp.settled_pnl,14900.0
 3.spot.balance_type,SpotBalanceType.Deposit()
 3.spot.cumulative_deposits,0.0
 3.spot.market_index,0.0
@@ -727,7 +727,7 @@ idle,False
 4.perp.last_cumulative_funding_rate,0.0
 4.perp.last_quote_asset_amount_per_lp,0.0
 4.perp.lp_shares,0.0
-4.perp.market_index,6.0
+4.perp.market_index,3.0
 4.perp.open_asks,0.0
 4.perp.open_bids,0.0
 4.perp.open_orders,0.0
