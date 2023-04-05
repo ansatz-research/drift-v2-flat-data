@@ -9,8 +9,8 @@ settled_perp_pnl,1712239
 cumulative_spot_fees,0
 cumulative_perp_funding,-12365
 liquidation_margin_freed,0
-last_active_slot,186589193
-next_order_id,15
+last_active_slot,186596796
+next_order_id,16
 max_margin_ratio,0
 next_liquidation_id,1
 sub_account_id,0
@@ -618,11 +618,11 @@ idle,False
 3.order.existing_position_direction,PositionDirection.Long()
 3.order.immediate_or_cancel,False
 3.order.market_index,0
-3.order.market_type,MarketType.Spot()
+3.order.market_type,MarketType.Perp()
 3.order.max_ts,0
 3.order.oracle_price_offset,0
 3.order.order_id,0
-3.order.order_type,OrderType.Market()
+3.order.order_type,OrderType.Limit()
 3.order.post_only,False
 3.order.price,0
 3.order.quote_asset_amount_filled,0
