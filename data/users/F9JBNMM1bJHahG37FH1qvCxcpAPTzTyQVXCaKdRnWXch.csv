@@ -5,11 +5,11 @@ last_add_perp_lp_shares_ts,0
 total_deposits,0
 total_withdraws,1262373610
 total_social_loss,0
-settled_perp_pnl,2116731243
+settled_perp_pnl,2116740587
 cumulative_spot_fees,720238920
 cumulative_perp_funding,0
 liquidation_margin_freed,0
-last_active_slot,187127976
+last_active_slot,187134410
 next_order_id,3
 max_margin_ratio,0
 next_liquidation_id,1
@@ -45,7 +45,7 @@ idle,False
 0.perp.last_cumulative_funding_rate,0.0
 0.perp.last_quote_asset_amount_per_lp,0.0
 0.perp.lp_shares,0.0
-0.perp.market_index,2.0
+0.perp.market_index,1.0
 0.perp.open_asks,0.0
 0.perp.open_bids,0.0
 0.perp.open_orders,0.0
@@ -53,14 +53,14 @@ idle,False
 0.perp.quote_break_even_amount,0.0
 0.perp.quote_entry_amount,0.0
 0.perp.remainder_base_asset_amount,0.0
-0.perp.settled_pnl,1671.0
+0.perp.settled_pnl,977.0
 0.spot.balance_type,SpotBalanceType.Deposit()
 0.spot.cumulative_deposits,-1271958026.0
 0.spot.market_index,0.0
 0.spot.open_asks,0.0
 0.spot.open_bids,0.0
 0.spot.open_orders,0.0
-0.spot.scaled_balance,1562620604077.0
+0.spot.scaled_balance,1562629891803.0
 1.order.auction_duration,0
 1.order.auction_end_price,0
 1.order.auction_start_price,0
@@ -363,7 +363,7 @@ idle,False
 2.perp.last_cumulative_funding_rate,0.0
 2.perp.last_quote_asset_amount_per_lp,0.0
 2.perp.lp_shares,0.0
-2.perp.market_index,2.0
+2.perp.market_index,0.0
 2.perp.open_asks,0.0
 2.perp.open_bids,0.0
 2.perp.open_orders,0.0
@@ -371,7 +371,7 @@ idle,False
 2.perp.quote_break_even_amount,0.0
 2.perp.quote_entry_amount,0.0
 2.perp.remainder_base_asset_amount,0.0
-2.perp.settled_pnl,1672.0
+2.perp.settled_pnl,143.0
 2.spot.balance_type,SpotBalanceType.Deposit()
 2.spot.cumulative_deposits,0.0
 2.spot.market_index,0.0
@@ -637,7 +637,7 @@ idle,False
 3.perp.last_cumulative_funding_rate,0.0
 3.perp.last_quote_asset_amount_per_lp,0.0
 3.perp.lp_shares,0.0
-3.perp.market_index,0.0
+3.perp.market_index,4.0
 3.perp.open_asks,0.0
 3.perp.open_bids,0.0
 3.perp.open_orders,0.0
@@ -645,7 +645,7 @@ idle,False
 3.perp.quote_break_even_amount,0.0
 3.perp.quote_entry_amount,0.0
 3.perp.remainder_base_asset_amount,0.0
-3.perp.settled_pnl,143.0
+3.perp.settled_pnl,193.0
 3.spot.balance_type,SpotBalanceType.Deposit()
 3.spot.cumulative_deposits,0.0
 3.spot.market_index,0.0
