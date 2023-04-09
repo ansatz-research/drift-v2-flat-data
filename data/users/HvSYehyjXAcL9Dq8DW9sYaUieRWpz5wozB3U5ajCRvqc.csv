@@ -2,14 +2,14 @@
 authority,thorXAam4w1JBK5Vhx99uvaKSd8cKi4fe37McDpCftB
 delegate,11111111111111111111111111111111
 last_add_perp_lp_shares_ts,0
-total_deposits,3062692870
-total_withdraws,2982646411
+total_deposits,3164692870
+total_withdraws,3084646411
 total_social_loss,0
 settled_perp_pnl,249629221
 cumulative_spot_fees,-212950
 cumulative_perp_funding,-64876777
 liquidation_margin_freed,0
-last_active_slot,187323239
+last_active_slot,187345376
 next_order_id,114
 max_margin_ratio,0
 next_liquidation_id,1
@@ -60,7 +60,7 @@ idle,False
 0.spot.open_asks,0.0
 0.spot.open_bids,0.0
 0.spot.open_orders,0.0
-0.spot.scaled_balance,1022363787083.0
+0.spot.scaled_balance,1022363788322.0
 1.order.auction_duration,0
 1.order.auction_end_price,0
 1.order.auction_start_price,0
