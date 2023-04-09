@@ -1,10 +1,10 @@
 ,0
 authority,7ML9ZzMXKLSatQaoy3YT16wAb6a4knemCqxz6wfaZCoo
-if_shares,449179252
-last_withdraw_request_shares,449179
+if_shares,2305039296
+last_withdraw_request_shares,0
 if_base,0
-last_valid_ts,1679927713
-last_withdraw_request_value,6058844
-last_withdraw_request_ts,1680418185
-cost_basis,6000000000
-market_index,1
+last_valid_ts,1679827384
+last_withdraw_request_value,0
+last_withdraw_request_ts,1680144006
+cost_basis,5000000000
+market_index,0
