@@ -1,10 +1,10 @@
 ,0
 authority,8txzupgyvjjeRVDFxMBZcvYYuK54Ck5YBttkb4n9YwqP
 if_shares,196240950
-last_withdraw_request_shares,0
+last_withdraw_request_shares,196240949
 if_base,0
 last_valid_ts,1670557262
-last_withdraw_request_value,0
-last_withdraw_request_ts,0
+last_withdraw_request_value,437378201
+last_withdraw_request_ts,1681153888
 cost_basis,250000000
 market_index,0
