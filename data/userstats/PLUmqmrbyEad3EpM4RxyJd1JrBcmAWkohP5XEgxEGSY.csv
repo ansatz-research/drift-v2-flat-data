@@ -1,7 +1,7 @@
 ,0
 authority,PLUmqmrbyEad3EpM4RxyJd1JrBcmAWkohP5XEgxEGSY
 referrer,11111111111111111111111111111111
-next_epoch_ts,0
+next_epoch_ts,1681344000
 maker_volume30d,119039660961
 taker_volume30d,132443119127
 filler_volume30d,0
@@ -16,5 +16,5 @@ userfees.total_fee_paid,289988128
 userfees.total_fee_rebate,0
 userfees.total_token_discount,0
 userfees.total_referee_discount,0
-userfees.total_referrer_reward,0
-userfees.current_epoch_referrer_reward,0
+userfees.total_referrer_reward,5520
+userfees.current_epoch_referrer_reward,4670
