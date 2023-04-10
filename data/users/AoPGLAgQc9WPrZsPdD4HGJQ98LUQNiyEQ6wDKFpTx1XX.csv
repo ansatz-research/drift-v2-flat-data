@@ -5,11 +5,11 @@ last_add_perp_lp_shares_ts,0
 total_deposits,5853220727
 total_withdraws,11277287903
 total_social_loss,0
-settled_perp_pnl,7519611604
-cumulative_spot_fees,1114039033
+settled_perp_pnl,7519633050
+cumulative_spot_fees,1114634135
 cumulative_perp_funding,48065663
 liquidation_margin_freed,0
-last_active_slot,187686714
+last_active_slot,187688708
 next_order_id,13533
 max_margin_ratio,0
 next_liquidation_id,1
@@ -60,7 +60,7 @@ idle,False
 0.spot.open_asks,0.0
 0.spot.open_bids,0.0
 0.spot.open_orders,0.0
-0.spot.scaled_balance,4694888182940.0
+0.spot.scaled_balance,4695501004343.0
 1.order.auction_duration,60
 1.order.auction_end_price,610000
 1.order.auction_start_price,610544
@@ -367,7 +367,7 @@ idle,False
 2.perp.open_asks,0.0
 2.perp.open_bids,0.0
 2.perp.open_orders,0.0
-2.perp.quote_asset_amount,72589585.0
+2.perp.quote_asset_amount,72590607.0
 2.perp.quote_break_even_amount,71783925.0
 2.perp.quote_entry_amount,71071863.0
 2.perp.remainder_base_asset_amount,0.0
@@ -641,7 +641,7 @@ idle,False
 3.perp.open_asks,0.0
 3.perp.open_bids,0.0
 3.perp.open_orders,0.0
-3.perp.quote_asset_amount,-17419907.0
+3.perp.quote_asset_amount,-17419239.0
 3.perp.quote_break_even_amount,-17974458.0
 3.perp.quote_entry_amount,-18156017.0
 3.perp.remainder_base_asset_amount,0.0
@@ -731,11 +731,11 @@ idle,False
 4.perp.open_asks,0.0
 4.perp.open_bids,0.0
 4.perp.open_orders,0.0
-4.perp.quote_asset_amount,10000.0
+4.perp.quote_asset_amount,0.0
 4.perp.quote_break_even_amount,0.0
 4.perp.quote_entry_amount,0.0
 4.perp.remainder_base_asset_amount,0.0
-4.perp.settled_pnl,0.0
+4.perp.settled_pnl,10000.0
 4.spot.balance_type,SpotBalanceType.Deposit()
 4.spot.cumulative_deposits,0.0
 4.spot.market_index,0.0
@@ -775,7 +775,7 @@ idle,False
 5.perp.open_asks,-1640000000000.0
 5.perp.open_bids,0.0
 5.perp.open_orders,1.0
-5.perp.quote_asset_amount,60000.0
+5.perp.quote_asset_amount,120000.0
 5.perp.quote_break_even_amount,0.0
 5.perp.quote_entry_amount,0.0
 5.perp.remainder_base_asset_amount,0.0
@@ -823,7 +823,7 @@ idle,False
 6.perp.quote_break_even_amount,0.0
 6.perp.quote_entry_amount,0.0
 6.perp.remainder_base_asset_amount,0.0
-6.perp.settled_pnl,10000.0
+6.perp.settled_pnl,425.0
 6.spot.balance_type,SpotBalanceType.Deposit()
 6.spot.cumulative_deposits,0.0
 6.spot.market_index,0.0
