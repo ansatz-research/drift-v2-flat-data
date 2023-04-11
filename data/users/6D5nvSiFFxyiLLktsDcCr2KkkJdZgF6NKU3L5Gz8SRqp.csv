@@ -16,7 +16,7 @@ next_liquidation_id,5
 sub_account_id,0
 status,UserStatus.Active()
 is_margin_trading_enabled,False
-idle,False
+idle,True
 0.order.auction_duration,0
 0.order.auction_end_price,0
 0.order.auction_start_price,0
