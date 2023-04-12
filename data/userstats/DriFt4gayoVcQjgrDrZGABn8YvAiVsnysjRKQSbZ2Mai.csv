@@ -9,12 +9,12 @@ last_maker_volume30d_ts,1676480415
 last_taker_volume30d_ts,1681228385
 last_filler_volume30d_ts,1668006977
 if_staked_quote_asset_amount,0
-number_of_sub_accounts,6
-number_of_sub_accounts_created,8
+number_of_sub_accounts,7
+number_of_sub_accounts_created,10
 is_referrer,True
 userfees.total_fee_paid,15735153
 userfees.total_fee_rebate,9258
 userfees.total_token_discount,0
 userfees.total_referee_discount,0
-userfees.total_referrer_reward,2443498
-userfees.current_epoch_referrer_reward,2440376
+userfees.total_referrer_reward,2463105
+userfees.current_epoch_referrer_reward,2459983
