@@ -15,7 +15,7 @@ max_margin_ratio,0
 next_liquidation_id,1
 sub_account_id,0
 status,UserStatus.Active()
-is_margin_trading_enabled,False
+is_margin_trading_enabled,True
 idle,False
 0.order.auction_duration,0
 0.order.auction_end_price,0
@@ -45,7 +45,7 @@ idle,False
 0.perp.last_cumulative_funding_rate,0.0
 0.perp.last_quote_asset_amount_per_lp,0.0
 0.perp.lp_shares,0.0
-0.perp.market_index,0.0
+0.perp.market_index,4.0
 0.perp.open_asks,0.0
 0.perp.open_bids,0.0
 0.perp.open_orders,0.0
@@ -53,7 +53,7 @@ idle,False
 0.perp.quote_break_even_amount,0.0
 0.perp.quote_entry_amount,0.0
 0.perp.remainder_base_asset_amount,0.0
-0.perp.settled_pnl,17369.0
+0.perp.settled_pnl,0.0
 0.spot.balance_type,SpotBalanceType.Deposit()
 0.spot.cumulative_deposits,5002422912.0
 0.spot.market_index,0.0
