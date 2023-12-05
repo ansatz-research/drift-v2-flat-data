@@ -1,9 +1,9 @@
-,0,1
-,0,0
-spot_market.pubkey,6gMq3mRCKf8aP3ttTyYhuijVZ2LGi14oDsBbkgubfLB3,3x85u7SWkmmr7YQGYhtjARgxwegTLJgkSLRprfXod6rh
-spot_market.oracle,11111111111111111111111111111111,H6ARHf6YXhGYeQfUzQNGk6rDNnLBQKrenN712K4AQJEG
-spot_market.mint,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,So11111111111111111111111111111111111111112
-spot_market.vault,GXWqPpjQpdz7KZw9p7f5PX2eGxHAhvpNXiviFkAB8zXg,DfYCNezifxAEsQbAJ1b3j6PX3JVBe8fu11KBhxsbw5d2
+,0,1,2,3,4,5,6,7,8
+,0,0,0,0,0,0,0,0,0
+spot_market.pubkey,6gMq3mRCKf8aP3ttTyYhuijVZ2LGi14oDsBbkgubfLB3,3x85u7SWkmmr7YQGYhtjARgxwegTLJgkSLRprfXod6rh,Mr2XZwj1NisUur3WZWdERdqnEUMoa9F9pUr52vqHyqj,54Ai4NTZmPgsT4kUr1w4zFbh33JaC34ptvvvByamsaSw,64WtBLXJsFnmoFR2kXqbTz3KzNP5x1SrpSn8zmkbF6xB,7pPeeTqcqYeED7k4ocdeaSx3MAwT56Y7khyCx1zfS8jM,6Aq7WBtsZVyumcRxpAoKNyWb97gAzp3be2LeQ9yE6SVX,BFvA3B6aRccCoF5vGb2Ph71twjZp1nLjyAzao34dvvnq,3fy2oMRJGceC3GAt9zGUBWt8MzjV5XxQDWKYLtiHPevX
+spot_market.oracle,Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD,H6ARHf6YXhGYeQfUzQNGk6rDNnLBQKrenN712K4AQJEG,E4v1BBgoso9s64TQvmyownAVJbhbEPGyzA3qn4n46qj9,GVXRSBjFk6e6J3NbVPXohDJetcTjaeeuykUpbQF8UoMU,JBu1AL4obBcCMqKBBxhpWCNUt136ijcuMZLFvTP7iWdB,3vxLXJqLqF3JG5TCbYycbKWRBbCJQLxQmBGCkyqEEefL,7yyaeuJ1GGtVBLT2z2xub5ZWYKaNhF28mj1RdV4VDFVk,nrYkQQQur7z8rYTST3G9GqATviK5SxTDkrqd21MW6Ue,AFrYBhb5wKQtxRS9UA9YRS4V3dwFm7SqmS6DHKq6YVgo
+spot_market.mint,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,So11111111111111111111111111111111111111112,mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So,3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh,7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs,Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB,J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn,HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3,bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1
+spot_market.vault,GXWqPpjQpdz7KZw9p7f5PX2eGxHAhvpNXiviFkAB8zXg,DfYCNezifxAEsQbAJ1b3j6PX3JVBe8fu11KBhxsbw5d2,5p8B6KhJjesV212heBu1o86W2vUSnW1P83ZNnMLtCAAx,3Zaz6vATY8br9WceXWD1Xa7fcyCpKSNanWFDRTEjjPqb,7vj6xtMi62a65yLNhe2APCib7baQsCqsu1y45G93xrdP,8A99Z4mV5uoicHbiBsaMhYvJtmwPygtVXpNvtPrh7usS,2AG6YN9Wi7JDrFcLNhaEP2NrXyZKFj7EjMPdkvwPdRR1,9WDsKiXN8vnJk3riuWrKcPwgNuaBL8D7iUPK7QwXvS8w,DsLVrjqo3sW6Z956m9nS7Xu4BGWwHBrMRqUkWNnGQeoB
 spot_market.name,"ListContainer: 
     85
     83
@@ -68,44 +68,268 @@ spot_market.name,"ListContainer:
     32
     32
     32
+    32","ListContainer: 
+    109
+    83
+    79
+    76
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32","ListContainer: 
+    119
+    66
+    84
+    67
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32","ListContainer: 
+    119
+    69
+    84
+    72
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32","ListContainer: 
+    85
+    83
+    68
+    84
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32","ListContainer: 
+    106
+    105
+    116
+    111
+    83
+    79
+    76
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32","ListContainer: 
+    80
+    89
+    84
+    72
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32","ListContainer: 
+    98
+    83
+    79
+    76
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
+    32
     32"
-spot_market.total_spot_fee,0.0,15512.6934
-spot_market.deposit_balance,5765222.557247513,49184.178438393
-spot_market.borrow_balance,181201.183966675,7909.140446968
-spot_market.cumulative_deposit_interest,1.0060890713,1.0150370995
-spot_market.cumulative_borrow_interest,1.0410324066,1.0370564026
-spot_market.total_social_loss,10001,11271899
-spot_market.total_quote_social_loss,10001,204381
-spot_market.withdraw_guard_threshold,500000.0,20000.0
-spot_market.max_token_deposits,10000000.0,200000.0
-spot_market.deposit_token_twap,5685966.649552,64926.235132027
-spot_market.borrow_token_twap,229335.462944,7664.902679509
-spot_market.utilization_twap,0.047064,0.129964
-spot_market.last_interest_ts,1681319843,1681319823
-spot_market.last_twap_ts,1681319844,1681319823
-spot_market.expiry_ts,0,0
-spot_market.order_step_size,0.0,0.001
-spot_market.order_tick_size,0.0,0.0001
-spot_market.min_order_size,0.0,0.1
-spot_market.max_position_size,0.0,0.0
-spot_market.next_fill_record_id,1,394188
-spot_market.next_deposit_record_id,2352753,2341856
-spot_market.initial_asset_weight,1.0,0.8
-spot_market.maintenance_asset_weight,1.0,0.9
-spot_market.initial_liability_weight,1.0,1.2
-spot_market.maintenance_liability_weight,1.0,1.1
-spot_market.imf_factor,0.0,0.00055
-spot_market.liquidator_fee,0.0,0.01
-spot_market.if_liquidation_fee,0.005,0.01
-spot_market.optimal_utilization,0.5,0.5
-spot_market.optimal_borrow_rate,0.5,0.3
-spot_market.max_borrow_rate,3.0,5.0
-spot_market.decimals,6,9
-spot_market.market_index,0,1
-spot_market.orders_enabled,False,True
-spot_market.oracle_source,OracleSource.QuoteAsset(),OracleSource.Pyth()
-spot_market.status,MarketStatus.Active(),MarketStatus.Active()
-spot_market.asset_tier,AssetTier.Collateral(),AssetTier.Collateral()
+spot_market.total_spot_fee,0.0,110876.193492,819.61509,587.240703,230.110569,29.187727,76.469414,97.671943,0.0347
+spot_market.deposit_balance,8563633.080539636,293607.816688781,136520.585512791,20.044147133,383.981894222,286441.811005469,157275.793438447,3743584.70028148,17814.043514551
+spot_market.borrow_balance,6004765.121241031,81372.166919587,1259.682036225,1.08406087,5.882459543,118959.671219532,4530.310701961,26518.678435769,286.852528963
+spot_market.cumulative_deposit_interest,1.0162978539,1.0246516013,1.0005146538,1.0020660357,1.0002470393,1.0121676586,1.0001646253,1.0000068058,1.0000017045
+spot_market.cumulative_borrow_interest,1.0734030091,1.0629787238,1.0057459905,1.0049003566,1.0021914977,1.0273925725,1.0003960592,1.0006338356,1.0000828617
+spot_market.total_social_loss,134650036,46019437,11947970,158,0,0,1557017,500062,0
+spot_market.total_quote_social_loss,134650197,1306594,526464,45618,0,0,101727,273617,0
+spot_market.withdraw_guard_threshold,1000000.0,50000.0,1000.0,4.0,30.0,50000.0,5000.0,1000.0,1000.0
+spot_market.max_token_deposits,15000000.0,400000.0,250000.0,50.0,500.0,2500000.0,300000.0,5000000.0,250000.0
+spot_market.deposit_token_twap,8559654.20793,287808.057906894,133433.15563616,19.72064925,380.49343766,234453.876634,194275.772477516,3697315.465969,13700.033099035
+spot_market.borrow_token_twap,6153708.140795,104156.926946669,1069.318063135,1.43621528,6.35299007,111403.953045,4521.180939458,22868.378615,316.251450873
+spot_market.utilization_twap,0.72578,0.367146,0.008381,0.073137,0.016744,0.478278,0.024221,0.006692,0.02361
+spot_market.last_interest_ts,1701811992,1701811990,1701811965,1701811610,1701810251,1701811925,1701811811,1701811758,1701811823
+spot_market.last_twap_ts,1701811992,1701811990,1701811965,1701811610,1701810251,1701811925,1701811811,1701811758,1701811823
+spot_market.expiry_ts,0,0,0,0,0,0,0,0,0
+spot_market.order_step_size,0.0,0.001,0.001,1e-05,1e-05,0.001,0.001,0.001,0.001
+spot_market.order_tick_size,0.0,0.0001,0.0001,0.01,0.1,0.0001,1e-06,0.0001,1e-05
+spot_market.min_order_size,0.0,0.1,0.0001,1e-05,1e-05,1e-07,0.01,1e-07,0.0001
+spot_market.max_position_size,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+spot_market.next_fill_record_id,1,1542668,4385,2161,1252,615,933,2790,3
+spot_market.next_deposit_record_id,9144938,9178225,14669,2128,161883,5342,16901,4834,1110
+spot_market.initial_asset_weight,1.0,0.8,0.8,0.8,0.8,0.9,0.8,0.5,0.8
+spot_market.maintenance_asset_weight,1.0,0.9,0.9,0.9,0.9,0.95,0.9,0.75,0.9
+spot_market.initial_liability_weight,1.0,1.2,1.2,1.2,1.2,1.1,1.2,1.5,1.2
+spot_market.maintenance_liability_weight,1.0,1.1,1.1,1.1,1.1,1.05,1.1,1.25,1.1
+spot_market.imf_factor,0.0,0.003,0.003,0.105,0.025,0.0004,0.00055,0.001,0.00055
+spot_market.liquidator_fee,0.0,0.01,0.01,0.025,0.025,0.01,0.01,0.005,0.01
+spot_market.if_liquidation_fee,0.005,0.01,0.025,0.01,0.01,0.01,0.025,0.01,0.025
+spot_market.optimal_utilization,0.7,0.7,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+spot_market.optimal_borrow_rate,0.08,0.06,0.08,0.1,0.1,0.08,0.15,0.7,0.15
+spot_market.max_borrow_rate,1.5,1.0,1.0,1.5,1.5,2.5,5.0,10.0,5.0
+spot_market.decimals,6,9,9,8,8,6,9,6,9
+spot_market.market_index,0,1,2,3,4,5,6,7,8
+spot_market.orders_enabled,False,True,True,True,True,True,True,True,True
+spot_market.oracle_source,OracleSource.PythStableCoin(),OracleSource.Pyth(),OracleSource.Pyth(),OracleSource.Pyth(),OracleSource.Pyth(),OracleSource.Pyth(),OracleSource.Pyth(),OracleSource.Pyth(),OracleSource.Pyth()
+spot_market.status,MarketStatus.Active(),MarketStatus.Active(),MarketStatus.Active(),MarketStatus.Active(),MarketStatus.Active(),MarketStatus.Active(),MarketStatus.Active(),MarketStatus.Active(),MarketStatus.Active()
+spot_market.asset_tier,AssetTier.Collateral(),AssetTier.Collateral(),AssetTier.Collateral(),AssetTier.Collateral(),AssetTier.Collateral(),AssetTier.Collateral(),AssetTier.Collateral(),AssetTier.Collateral(),AssetTier.Collateral()
 spot_market.padding,"ListContainer: 
     0
     0
@@ -129,6 +353,10 @@ spot_market.padding,"ListContainer:
     0
     0
     0
+    2
+    140
+    23
+    1
     0
     0
     0
@@ -142,6 +370,346 @@ spot_market.padding,"ListContainer:
     0
     0
     0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    147
+    47
+    160
+    2
+    0
+    0
+    0
+    0
+    0
+    240
+    171
+    117
+    164
+    13
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    124
+    72
+    93
+    3
+    0
+    0
+    0
+    0
+    0
+    160
+    114
+    78
+    24
+    9
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    191
+    90
+    71
+    218
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    191
+    90
+    71
+    218
     0
     0
     0
@@ -278,29 +846,287 @@ spot_market.padding,"ListContainer:
     0
     0
     0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    160
+    114
+    78
+    24
+    9
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    136
+    82
+    106
+    116
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    16
+    165
+    212
+    232
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
     0"
-spot_market.insurance_fund.vault,2CqkQvYxp9Mq4PqLvAQ1eryYxebUh4Liyn5YMDtXsYci,4vwQWa4RjmPkn1WrmyEE3t912yWsBf9JNkASH36AQL3F
-spot_market.insurance_fund.total_shares,153056596171,832070389
-spot_market.insurance_fund.user_shares,121185623301,733559383
-spot_market.insurance_fund.shares_base,0,0
-spot_market.insurance_fund.unstaking_period,1123200,1123200
-spot_market.insurance_fund.last_revenue_settle_ts,1681318862,1681318863
-spot_market.insurance_fund.revenue_settle_period,3600,3600
-spot_market.insurance_fund.total_factor,10000,10000
-spot_market.insurance_fund.user_factor,5000,5000
-spot_market.historical_oracle_data.last_oracle_price,1.0,23.716548
-spot_market.historical_oracle_data.last_oracle_conf,1e-06,0.026428
-spot_market.historical_oracle_data.last_oracle_delay,0,1
-spot_market.historical_oracle_data.last_oracle_price_twap,1.000007,23.698843
-spot_market.historical_oracle_data.last_oracle_price_twap5min,1.000001,23.717424
-spot_market.historical_oracle_data.last_oracle_price_twap_ts,2023-04-12 17:17:03,2023-04-12 17:17:03
-spot_market.historical_index_data.last_index_bid_price,1.0,23.691
-spot_market.historical_index_data.last_index_ask_price,1000000,23707000
-spot_market.historical_index_data.last_index_price_twap,1.0,23.699
-spot_market.historical_index_data.last_index_price_twap5min,1.0,23.699
-spot_market.historical_index_data.last_index_price_twap_ts,1970-01-01 00:00:00,1970-01-01 00:00:00
-spot_market.revenue_pool.scaled_balance,639.595279836,0.002628986
-spot_market.revenue_pool.market_index,0,1
+spot_market.insurance_fund.vault,2CqkQvYxp9Mq4PqLvAQ1eryYxebUh4Liyn5YMDtXsYci,4vwQWa4RjmPkn1WrmyEE3t912yWsBf9JNkASH36AQL3F,iBM2BTsrXXDfwm4P4ssbzBAquaj7gGgNNhBVaq8ryiY,EHYk36mtiATVB1gR7FHAwwoy5DHAaoPAaGbNaQQzDgU4,CYFW5f9hnLJP2c2LtTRbvi5HanHBPDu4cgfGEgGLDJdX,7eNLGUBZ6N8xdUspAYv25P9Q2JNfCHoLe22WeZ9QT83z,5R8QubxoMkZy65ZCLw2ahM8ZSwzXTTWDpuxCbTEtTEu1,2brUNwoaqTKFWQi5vfdac2nL72ypoVRLt928kjofHYpR,2Lp16xwtqpH8Wur2746AFTP3oXNHfEusUf9CggHL6yYP
+spot_market.insurance_fund.total_shares,1432238225752,283026110296,274661306007,2894697,4110998,972016258,1807829403647,43397129615,25012141897
+spot_market.insurance_fund.user_shares,1294387840271,275355957367,274441008234,2881201,3901801,967374050,1807814529459,43396690603,25011797566
+spot_market.insurance_fund.shares_base,0,0,0,0,0,0,0,0,0
+spot_market.insurance_fund.unstaking_period,1123200,1123200,1123200,1123200,1123200,1123200,1123200,1123200,1123200
+spot_market.insurance_fund.last_revenue_settle_ts,1701810090,1701810122,1701810183,1701810229,1701810251,1701810157,1701810187,1701810230,1701810185
+spot_market.insurance_fund.revenue_settle_period,3600,3600,3600,3600,3600,3600,3600,3600,3600
+spot_market.insurance_fund.total_factor,10000,100000,100000,100000,100000,100000,100000,200000,100000
+spot_market.insurance_fund.user_factor,5000,50000,50000,50000,50000,50000,50000,100000,50000
+spot_market.historical_oracle_data.last_oracle_price,1.0,60.952727,70.255793,43812.069625,2261.078771,1.0,65.413402,0.461588,66.804732
+spot_market.historical_oracle_data.last_oracle_conf,0.00019,0.047253,0.289386,16.416693,1.081527,0.000296,0.123319,0.001083,0.103703
+spot_market.historical_oracle_data.last_oracle_delay,1,2,2,2,1,2,4,2,3
+spot_market.historical_oracle_data.last_oracle_price_twap,1.000001,61.102752,70.350668,43734.217016,2260.027915,1.000008,65.551424,0.457345,66.976597
+spot_market.historical_oracle_data.last_oracle_price_twap5min,1.000001,60.944512,70.252398,43812.040638,2260.484535,1.000001,65.427786,0.460311,66.835059
+spot_market.historical_oracle_data.last_oracle_price_twap_ts,2023-12-05 16:32:51,2023-12-05 16:33:10,2023-12-05 16:32:45,2023-12-05 16:26:50,2023-12-05 15:34:12,2023-12-05 16:32:05,2023-12-05 16:30:11,2023-12-05 16:29:18,2023-12-05 16:30:23
+spot_market.historical_index_data.last_index_bid_price,1.0,60.937,71.634,43769.98,2206.24,0.9979,65.493,0.4376,64.852672
+spot_market.historical_index_data.last_index_ask_price,1000000,60955000,71718000,43774420000,2206890000,1002000,65507000,476800,64852672
+spot_market.historical_index_data.last_index_price_twap,1.0,60.945999,71.675999,43772.2,2206.564999,0.999949,65.499999,0.457199,64.852672
+spot_market.historical_index_data.last_index_price_twap5min,1.0,60.945999,71.675999,43772.2,2206.564999,0.999949,65.499999,0.457199,64.852672
+spot_market.historical_index_data.last_index_price_twap_ts,1969-12-31 19:00:00,1969-12-31 19:00:00,1969-12-31 19:00:00,1969-12-31 19:00:00,1969-12-31 19:00:00,1969-12-31 19:00:00,1969-12-31 19:00:00,1969-12-31 19:00:00,1969-12-31 19:00:00
+spot_market.revenue_pool.scaled_balance,874.820360801,0.248941953,2.374e-06,0.000394596,1.45e-06,1.148723022,0.001495212,0.016497046,0.000126707
+spot_market.revenue_pool.market_index,0,1,2,3,4,5,6,7,8
 spot_market.revenue_pool.padding,"ListContainer: 
     0
     0
@@ -313,10 +1139,37 @@ spot_market.revenue_pool.padding,"ListContainer:
     0
     0
     0
-    0"
-spot_market.spot_fee_pool.scaled_balance,0.0,253.280604327
-spot_market.spot_fee_pool.market_index,0,0
-spot_market.spot_fee_pool.padding,"ListContainer: 
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
     0
     0
     0
@@ -329,5 +1182,62 @@ spot_market.spot_fee_pool.padding,"ListContainer:
     0
     0
     0"
-insurance_fund_vault_amt,343221889375,11228578071
-spot_vault_amt,5611912439185,41723279463711
+spot_market.spot_fee_pool.scaled_balance,0.0,356.92176541,456.569646801,467.353505554,203.765401446,28.079221407,68.417951307,82.202359502,0.034207849
+spot_market.spot_fee_pool.market_index,0,0,0,0,0,0,0,0,0
+spot_market.spot_fee_pool.padding,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0","ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0"
+insurance_fund_vault_amt,3878181784367,4080383753771,781639987164,9063186,17207381,6144014802,3615812127535,86955016327,51822142410
+spot_vault_amt,2271438406819,214383773498191,135323990812343,1899621323,37818156076,167708991536,152769634004751,3717076790307,17527198240437
